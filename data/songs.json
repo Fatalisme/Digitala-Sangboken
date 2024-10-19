@@ -1,0 +1,10 @@
+[
+    {
+      "title": "Example Song",
+      "author": "John Doe",
+      "category": "Pop",
+      "lyrics": "This is an example song\nWith some lyrics\nAnd multiple lines",
+      "info" : "so rad dude"
+    }
+  ]
+  
