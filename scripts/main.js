@@ -1,5 +1,6 @@
 let allSongs = [];
 let categories = [];
+let isTagSearchEnabled = false;
 
 // Fetch songs from JSON file
 async function fetchSongs() {
@@ -17,9 +18,12 @@ function displaySongs(songs) {
             <h2>${song.title}</h2>
             <h3 class="song-melody">${song.melody}</h3>
             <h4 class="song-author">${song.author}</h4>
-            <p class="song_tag">Category: ${song.category}</p>
+            <p class="song_cat">Category: ${song.category}</p>
             <pre>${song.lyrics}</pre>
             <p class="song_coolinfodude">${song.info}</p>
+            ${song.tags && (typeof song.tags === 'string' ? song.tags.length > 0 : song.tags.length > 0) 
+                ? `<p class="song_tag">tag: ${Array.isArray(song.tags) ? song.tags.join(', ') : song.tags}</p>` 
+                : ''}            
         </div>
     `).join('');
 }
@@ -30,7 +34,8 @@ function filterSongs(searchTerm, category) {
         (category === 'All' || song.category === category) &&
         (song.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
         song.lyrics.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        song.author.toLowerCase().includes(searchTerm.toLowerCase()))
+        song.author.toLowerCase().includes(searchTerm.toLowerCase())) ||
+        (isTagSearchEnabled && song.tags && song.tags.some(tag => tag.toLowerCase().includes(searchTerm.toLowerCase())))
     );
 }
 
@@ -58,7 +63,7 @@ function setupCategoryFilter() {
 }
 
 // Setup search functionality
-function setupSearch() {
+/* function setupSearch() {
     const searchInput = document.getElementById('search-input');
     searchInput.addEventListener('input', (e) => {
         const searchTerm = e.target.value;
@@ -66,8 +71,25 @@ function setupSearch() {
         const filteredSongs = filterSongs(searchTerm, activeCategory);
         displaySongs(filteredSongs);
     });
+} */
+
+function setupSearch() {
+    const searchInput = document.getElementById('search-input');
+    const tagSearchCheckbox = document.getElementById('tag-search-checkbox');
+
+    searchInput.addEventListener('input', performSearch);
+    tagSearchCheckbox.addEventListener('change', (e) => {
+        isTagSearchEnabled = e.target.checked;
+        performSearch();
+    });
 }
 
+function performSearch() {
+    const searchTerm = document.getElementById('search-input').value;
+    const activeCategory = document.querySelector('.category-btn.active').dataset.category;
+    const filteredSongs = filterSongs(searchTerm, activeCategory);
+    displaySongs(filteredSongs);
+}
 
 // Initialize the application
 async function init() {

@@ -75,13 +75,24 @@ mark {
     margin-bottom: 15px;
 }
 
-.song_tag{
+.song_cat{
     display: inline-block;
 padding: 4px 8px;
 margin: 4px;
 background-color: #f0f0f0;
 border-radius: 4px;
 font-size: 14px;
+color: #333;
+text-decoration: none;
+}
+
+.song_tag{
+    display: inline-block;
+padding: 2px 4px;
+margin: 2px;
+background-color: #f0f0f0;
+border-radius: 4px;
+font-size: 10px;
 color: #333;
 text-decoration: none;
 }
