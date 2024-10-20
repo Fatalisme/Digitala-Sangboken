@@ -1,0 +1,29 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Add Song Template",
+            "type": "process",
+            "command": "python",
+            "args": [
+                "${workspaceFolder}/scripts/song_template_manager.py",
+                "add",
+                "${input:templateCount}",
+                "${file}"
+            ],
+            "problemMatcher": [],
+            "presentation": {
+                "reveal": "always",
+                "panel": "new"
+            }
+        }
+    ],
+    "inputs": [
+        {
+            "id": "templateCount",
+            "type": "promptString",
+            "description": "Number of templates to add",
+            "default": "1"
+        }
+    ]
+}
