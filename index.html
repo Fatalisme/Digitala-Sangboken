@@ -1,22 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Elliot Dobetzky"/>
     <title>Digitala Sångboken</title>
-    <link rel="stylesheet" href="styles/main.css">
-</head>
-<body>
+    <link rel="stylesheet" href="styles/main.css" />
+  </head>
+  <body>
     <header>
-        <h1>Digitala Sångboken</h1>
-        <input type="text" id="search-input" placeholder="Search songs...">
-        <div id="tag-search-option">
-            <input type="checkbox" id="tag-search-checkbox">
-            <label for="tag-search-checkbox">Include tags in search</label>
+      <h1><a href="_self">Digitala Sångboken</a></h1>
+      <div class="search-func">
+        <label for="search-input" class="">Sök på låtnamn eller låt texten</label>
+        <input
+          type="text"
+          id="search-input"
+          placeholder="Search songs..."
+          class="input"
+        />
+        <div id="tag-search-option" class="checkbox-tag">
+          <input type="checkbox" id="tag-search-checkbox" />
+          <label for="tag-search-checkbox">Inkludera tags för att hitta låtar som hör ihop</label>
         </div>
-        <div id="category-filter" class="category-holder"></div>
+      </div>
+      <div id="category-filter" class="category-holder"></div>
     </header>
     <main id="song-list"></main>
     <script src="scripts/main.js"></script>
-</body>
+  </body>
 </html>
