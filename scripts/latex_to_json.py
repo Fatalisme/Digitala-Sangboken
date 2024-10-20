@@ -14,8 +14,8 @@ def process_styling(text):
     if not isinstance(text, str):
         return ""
     # Replace \leftrepeat and \rightrepeat with bold ||
-    text = re.sub(r'\\leftrepeat', r'<b>||</b>', text)
-    text = re.sub(r'\\rightrepeat', r'<b>||</b>', text)
+    text = re.sub(r'\\leftrepeat', r'<b>||:</b>', text)
+    text = re.sub(r'\\rightrepeat', r'<b>:||</b>', text)
     
     # Transforming text styling
     text = re.sub(r'\\textit{(.+?)}', r'<i>\1</i>', text)
@@ -43,7 +43,8 @@ def parse_latex_songs(file_path):
          'melody': '',
          'author': '',
          'info': '',
-         'lyrics': []
+         'lyrics': [],
+         'tags': []
          
          }  # Generates a unique UUID for each song andAdd category to each song
 
@@ -58,6 +59,12 @@ def parse_latex_songs(file_path):
         author_match = re.search(r'\\author{(.+?)}', block)
         if author_match:
             song_data['author'] = author_match.group(1)
+
+        # Parse tags
+        tags_match = re.search(r'\\tags{(.+?)}', block)
+        if tags_match:
+            tags = tags_match.group(1).split(',')
+            song_data['tags'] = [tag.strip() for tag in tags]
 
         info_match = re.search(r'\\songinfo{(.+?)}', block)
         if info_match:
