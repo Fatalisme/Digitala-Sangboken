@@ -18,6 +18,7 @@ def process_styling(text):
     text = re.sub(r'\\rightrepeat', r'<b>:||</b>', text)
     
     # Transforming text styling
+    text = re.sub(r'\\textbf{\\textit{(.+?)}}', r'<b><i>\1</i></b>', text)
     text = re.sub(r'\\textit{(.+?)}', r'<i>\1</i>', text)
     text = re.sub(r'\\textbf{(.+?)}', r'<b>\1</b>', text)
     return text
@@ -71,7 +72,7 @@ def parse_latex_songs(file_path):
             song_data['info'] = clean_latex(info_match.group(1))
             block = block.replace(info_match.group(0), '')
         
-
+        
         lyrics = re.findall(r'\\songtext{(.*?)}(.*?)(?=\\songtext|\Z)', block, re.DOTALL)
         song_data['lyrics'] = []
         for songtext_content, lyric_block in lyrics:
@@ -83,7 +84,8 @@ def parse_latex_songs(file_path):
 
         special_parts = re.findall(r'\\textbf{\\textit{(.+?):}}(.+?)\\\\', block)
         for part, line in special_parts:
-            song_data['lyrics'].append({part.lower(): clean_latex(line.strip())})
+            song_data['lyrics'].append({part.lower(): clean_latex(line.strip())}) 
+       
 
         song_data['lyrics'] = [process_styling(line) if isinstance(line, str) else line for line in song_data['lyrics']]
         song_data['lyrics'] = [line for line in song_data['lyrics'] if line]

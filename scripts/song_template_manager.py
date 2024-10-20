@@ -4,13 +4,14 @@ import os
 def add_template_to_file(file_path, num_templates=1):
     song_template = """
 \\song{Song name}
-\\melo{ Melodi: UwU}
-\\author{Text: OwO}
-
-\\songtext{}Text goes here
-
-\\songinfo{info goes here}
+\\melo{Melodi: }
+\\author{Text: }
 \\tags{}
+\\songinfo{here}
+
+\\songtext{}here
+
+
 
 
 %-------------------------------------------------------------
