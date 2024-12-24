@@ -24,6 +24,11 @@ h4{
 a{
     text-decoration: none;
 }
+pre{
+    font-family: Arial, Helvetica, sans-serif;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
 
 .search-func{
     display: flex;
