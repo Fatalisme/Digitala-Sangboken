@@ -67,6 +67,11 @@ pre{
     padding-left: 16px;
     padding-right: 16px;
 }
+#category-text {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #333;
+}
 
 
 
