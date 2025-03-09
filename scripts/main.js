@@ -42,6 +42,11 @@ function filterSongs(searchTerm, category) {
 // Setup category filter buttons
 function setupCategoryFilter() {
     const categoryFilter = document.getElementById('category-filter');
+    const categoryText = document.createElement('div');
+    categoryText.id = 'category-text';
+    categoryText.textContent = 'Visar just nu: Alla sånger';
+    categoryFilter.parentNode.insertBefore(categoryText, categoryFilter.nextSibling);
+
     categoryFilter.innerHTML = categories.map(category => `
         <button class="category-btn" data-category="${category}">${category}</button>
     `).join('');
@@ -58,8 +63,18 @@ function setupCategoryFilter() {
                 btn.classList.remove('active');
             });
             e.target.classList.add('active');
+
+            // Update category text
+            categoryText.textContent = `Visar just nu: ${selectedCategory === 'All' ? 'Alla sånger' : `${selectedCategory} sånger`}`;
         }
     });
+
+    // Set initial active category and text
+    const allButton = categoryFilter.querySelector('[data-category="All"]');
+    if (allButton) {
+        allButton.classList.add('active');
+    }
+    
 }
 
 // Setup search functionality
