@@ -78,16 +78,6 @@ function setupCategoryFilter() {
 }
 
 // Setup search functionality
-/* function setupSearch() {
-    const searchInput = document.getElementById('search-input');
-    searchInput.addEventListener('input', (e) => {
-        const searchTerm = e.target.value;
-        const activeCategory = document.querySelector('.category-btn.active').dataset.category;
-        const filteredSongs = filterSongs(searchTerm, activeCategory);
-        displaySongs(filteredSongs);
-    });
-} */
-
 function setupSearch() {
     const searchInput = document.getElementById('search-input');
     const tagSearchCheckbox = document.getElementById('tag-search-checkbox');
@@ -106,6 +96,44 @@ function performSearch() {
     displaySongs(filteredSongs);
 }
 
+// Fetch GitHub issues
+async function fetchGitHubIssues() {
+    const issuesList = document.getElementById("github-issues");
+    const repoOwner = "Fatalisme";
+    const repoName = "Digitala-Sangboken"; 
+    const label = "song suggestion"; 
+
+    try {
+        const response = await fetch(
+            `https://api.github.com/repos/${repoOwner}/${repoName}/issues?labels=${encodeURIComponent(label)}`
+        );
+
+        if (!response.ok) {
+            throw new Error("Failed to fetch issues");
+        }
+
+        const issues = await response.json();
+
+        if (issues.length === 0) {
+            issuesList.innerHTML = "<li>Inga sångförslag hittades.</li>";
+            return;
+        }
+
+        issuesList.innerHTML = issues
+            .map(
+                (issue) => `
+                <li>
+                    <a href="${issue.html_url}" target="_blank">${issue.title}</a>
+                </li>
+            `
+            )
+            .join("");
+    } catch (error) {
+        issuesList.innerHTML = `<li>Kunde inte ladda issues: ${error.message}</li>`;
+    }
+}
+
+
 // Initialize the application
 async function init() {
     await fetchSongs();
@@ -119,3 +147,6 @@ async function init() {
 }
 
 init();
+
+// Call the function when the page loads
+document.addEventListener("DOMContentLoaded", fetchGitHubIssues);

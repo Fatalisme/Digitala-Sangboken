@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="author" content="Elliot Dobetzky" />
+    <title>About - Digitala Sångboken</title>
+    <link rel="stylesheet" href="styles/main.css" />
+    <script src="scripts/main.js"></script>
+  </head>
+  <body>
+    <header>
+      <h1><a href="index.html">Digitala Sångboken</a></h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Hem</a></li>
+          <li><a href="about.html" class="active">Om hemsidan</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <h2>Om Digitala Sångboken</h2>
+      <p>
+        Välkommen till Digitala Sångboken! En samling av sånger från
+        studentvärlden.
+      </p>
+      <p>
+        Välkommen till Digitala Sångboken – en samling av sånger från
+        studentvärlden! Syftet med denna plattform är att erbjuda ett stöd för
+        att skapa sånghäften till fester, hitta låtar om du glömt din egen
+        sångbok, eller bara för att sjunga med.
+      </p>
+      <p>
+        Här kan du hitta sånger, extra verser och trivia bakom låtarna. Sidan är
+        tänkt att fungera som öppen källkod, vilket innebär att vem som helst
+        kan bidra eller skapa sitt eget repo!
+      </p>
+      <h3>Om mig</h3>
+      <p>
+        Hej! Jag är BillyBonk – en gammal diskare som nu arbetar med UX och
+        utveckling. Detta sidoprojekt startade jag eftersom jag saknade en
+        användbar samling av studentsånger.
+      </p>
+      <h3>Framtida planer</h3>
+      <p>
+        Såklart ska mer låtar in på sidan! Men mer långsiktigt så finns det
+        flertalliga mål:
+      </p>
+      <ul>
+        <li>
+          Inbyggt verktyg för att skapa digitala sånghäften. Så att man kan
+          skapa ett sånghäften som andra kan hitta via en "kahoot kod"
+        </li>
+        <li>
+          Dyslexi läge för att öka läsbarhet - Egentligen ska det vara så läsbart
+          som möjligt oavsett, men ett specifikt läge kan vore en nice to have.
+        </li>
+        <li>Ett sätt för alla att kunna lägga till information om låtar</li>
+        <li>
+          Möjligtvis ett sätt att kunna ladda upp egna spex. (är inte helt säker
+          på denna men vore typ kul)
+        </li>
+      </ul>
+      <h3>Bidra till projektet</h3>
+      <p>
+        Har du en sång att lägga till? Eller vill du hjälpa mig med koden? Besök
+        GitHub-repo:
+        <a
+          href="https://github.com/Fatalisme/Digitala-Sangboken"
+          target="_blank"
+          >GitHub Repository</a
+        >
+      </p>
+      <p>Det går också jättebra att ta kontakt med mig via Github eller, om du känner mig, så funkar social medier.</p>
+
+      <h4>Mallar</h4>
+      <p>
+        Här är en mall för att föreslå en ny sång. Kopiera och fyll i
+        informationen:
+      </p>
+      <pre class="song-template" id="song-template">
+  Titel: [Sångens titel]
+  Melodi: [Melodin sången sjungs till]
+  Författare: [Författarens namn eller lämna det tomt om okänt]
+  Kategori: [Kategori, t.ex. "Brännvin"]
+  Text:
+  [Här skriver du sångtexten]
+  Tags: [Valfria taggar, separerade med kommatecken, dessa används främst om det är extraverser]
+  Övrig information: [Eventuell extra information om sången]
+  </pre
+      >
+      <p>Alternativt kan du använda en förifylld mall direkt på GitHub:</p>
+      <a
+        href="https://github.com/Fatalisme/Digitala-Sangboken/issues/new?template=song-suggestion.md"
+        target="_blank"
+        >Föreslå en sång på GitHub</a
+      >
+      <h4>Sångförslag från GitHub Issues</h4>
+      <p>
+        Här visas de issues som har etiketten ("<span lang="en">label</span>")
+        "<code>song suggestion</code>".
+      </p>
+      <ul id="github-issues">
+        <li>Laddar issues...</li>
+      </ul>
+    </main>
+    <footer>
+      <p>&copy; 2025 Digitala Sångboken. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
