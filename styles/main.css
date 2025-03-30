@@ -113,3 +113,63 @@ text-decoration: none;
     font-size: 12px;
 }
 
+/* General reset for the navigation */
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  background-color: #333; /* Dark background for the nav */
+  padding: 10px 0;
+}
+
+nav ul li {
+  margin: 0 15px; /* Spacing between links */
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white; /* White text for contrast */
+  font-size: 16px;
+  font-weight: bold;
+  transition: color 0.3s ease; /* Smooth hover effect */
+}
+
+nav ul li a:hover {
+  color: #ffcc00; /* Highlight color on hover */
+}
+
+/* Active link styling */
+nav ul li a.active {
+    border-bottom: 2px solid #ffcc00; /* Highlight the current page */
+  }
+
+#github-issues {
+  list-style: none;
+  padding: 0;
+}
+
+#github-issues li {
+  margin: 5px 0;
+}
+
+#github-issues li a {
+  color: #007bff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+#github-issues li a:hover {
+  color: #0056b3;
+}
+
+pre.song-template {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow-x: auto;
+  }
+  
+
