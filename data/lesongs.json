@@ -1,6 +1,6 @@
 [
   {
-    "id": "9e61fd0b-e089-41df-9657-f8c2ff3b7b0e",
+    "id": "cba0fd18-bdc6-4c3a-8dc0-6f8ab49cf5d4",
     "category": "Brännvin",
     "title": "Kort finsk supvisa",
     "melody": "",
@@ -10,7 +10,7 @@
     "tags": []
   },
   {
-    "id": "de31a627-2d1f-4f45-8ce3-1751cf820639",
+    "id": "466828bc-13fc-4c5f-b937-a97ee83ed175",
     "category": "Brännvin",
     "title": "Lång finsk supvisa",
     "melody": "",
@@ -20,17 +20,19 @@
     "tags": []
   },
   {
-    "id": "514b227e-f498-4664-8bbd-e19651b4016e",
+    "id": "4443b3e7-c3c4-456c-89e2-fe1f0b9798a2",
     "category": "Brännvin",
     "title": "Helan går",
     "melody": "",
     "author": "",
     "info": "",
     "lyrics": "Helan går,\nsjung hopp, faderallanlallanlej.\nHelan går,\nsjung hopp, faderallanlej.\nOch den som inte helan tar\nhan heller inte halvan får\nHelan går!\nSjung hopp, faderallanlej!",
-    "tags": []
+    "tags": [
+      "Helan går"
+    ]
   },
   {
-    "id": "d4cc1c32-ff29-4c2c-84c7-bb9f6cfd341f",
+    "id": "4a6d2119-3710-4ddb-af2c-203f702c8f84",
     "category": "Brännvin",
     "title": "Alla tallarna",
     "melody": "",
@@ -40,7 +42,7 @@
     "tags": []
   },
   {
-    "id": "36edb4b8-8c2b-49ce-9528-64ed08a7d168",
+    "id": "3aeae345-eeb9-480d-8d2c-994bd9e24f8d",
     "category": "Brännvin",
     "title": "Måsen",
     "melody": "Melodi: När månen vandrar på fästet blå",
@@ -52,7 +54,7 @@
     ]
   },
   {
-    "id": "d4c7185a-de2d-493d-a9d6-ffb7e61276b5",
+    "id": "a0c5f0ae-ceee-4111-ba4d-a05db0054e1d",
     "category": "Brännvin",
     "title": "JASen",
     "melody": "Melodi: När månen vandrar på fästet blå",
@@ -64,7 +66,7 @@
     ]
   },
   {
-    "id": "a1584c86-a865-4433-ab41-2da7d4e83e9c",
+    "id": "0b555c82-f5da-4028-8a20-8d820972427e",
     "category": "Brännvin",
     "title": "Balrogen",
     "melody": "Melodi: När månen vandrar på fästet blå",
@@ -76,7 +78,7 @@
     ]
   },
   {
-    "id": "026ebee5-e6aa-4707-8acf-078b397d2f9e",
+    "id": "642c2f87-5207-4610-878a-3b734007b5a9",
     "category": "Brännvin",
     "title": "Musen",
     "melody": "Melodi: När månen vandrar på fästet blå",
@@ -88,7 +90,7 @@
     ]
   },
   {
-    "id": "48aa6dad-d67d-4b1d-b4bb-86adc89f8a7b",
+    "id": "d7123d4a-1ab4-4e84-ba08-e2db343710c7",
     "category": "Brännvin",
     "title": "Moosen",
     "melody": "Melodi: När månen vandrar på fästet blå",
@@ -100,7 +102,7 @@
     ]
   },
   {
-    "id": "1cbb4a98-d5f4-413f-a82f-19a5804fb984",
+    "id": "3d499d70-f0e5-4297-8d2a-8b8ed71e5f3c",
     "category": "Brännvin",
     "title": "När nubben blänker",
     "melody": "Melodi: När månen vandrar på fästet blå",
@@ -112,7 +114,7 @@
     ]
   },
   {
-    "id": "f8754aa2-b3b1-4793-9eca-9313d9c5c0b9",
+    "id": "8f38e901-03ef-410a-9b55-2e5c3bb06c72",
     "category": "Brännvin",
     "title": "Mesen",
     "melody": "Melodi: När månen vandrar på fästet blå",
@@ -124,7 +126,7 @@
     ]
   },
   {
-    "id": "3b3aa09f-c7ee-4d58-a576-b1b3ac495a03",
+    "id": "83961ee9-95e1-4ba1-b92a-3ea783deecd9",
     "category": "Brännvin",
     "title": "Boeing",
     "melody": "Melodi: När månen vandrar på fästet blå",
@@ -136,7 +138,7 @@
     ]
   },
   {
-    "id": "859279ec-fc19-4750-a348-ff93fccb4f18",
+    "id": "344da9e7-d433-40e3-aa4b-3808e593fe95",
     "category": "Brännvin",
     "title": "Capsen",
     "melody": "Melodi: När månen vandrar på fästet blå",
@@ -148,7 +150,7 @@
     ]
   },
   {
-    "id": "902cbae4-a2f4-43d1-af2d-c862f7bdb1da",
+    "id": "141e7114-3d93-4ac6-9762-7d77ee375ff2",
     "category": "Brännvin",
     "title": "Örnen",
     "melody": "Melodi: När månen vandrar på fästet blå",
@@ -160,7 +162,7 @@
     ]
   },
   {
-    "id": "97f668ad-16f9-45d1-ba6f-97fe54a32bd7",
+    "id": "c48a7e91-2e1f-42c7-83da-ab122d1265ad",
     "category": "Brännvin",
     "title": "Måsen (kort)",
     "melody": "",
@@ -172,7 +174,7 @@
     ]
   },
   {
-    "id": "aea9674e-cb77-4b07-808a-69ded6413b25",
+    "id": "8d3d20d3-0b36-4089-8fb0-02126d93f524",
     "category": "Brännvin",
     "title": "Mera brännvin",
     "melody": "Melodi: Internationalen",
@@ -182,7 +184,7 @@
     "tags": []
   },
   {
-    "id": "32dcf0f3-0f37-4366-8ad5-6a74a0da942b",
+    "id": "fadc46c2-f6df-4868-ba54-5a05f6ffdada",
     "category": "Brännvin",
     "title": "Livet är härligt",
     "melody": "Melodi: Röda kavalleriet",
@@ -192,7 +194,7 @@
     "tags": []
   },
   {
-    "id": "e0304315-27d6-4e5f-bd52-7de72b71a009",
+    "id": "b604542c-a6fd-41d7-8e1d-00d3a4285e0e",
     "category": "Brännvin",
     "title": "Imbelupet",
     "melody": "Melodi: Kors på Idas grav",
@@ -202,7 +204,7 @@
     "tags": []
   },
   {
-    "id": "5d01e585-ef84-4f28-b004-a6628f528ede",
+    "id": "ba290333-a2be-4006-b9de-f96d3546f699",
     "category": "Brännvin",
     "title": "Vikingen",
     "melody": "Melodi: When Johnny comes marching home",
@@ -212,7 +214,7 @@
     "tags": []
   },
   {
-    "id": "d591a179-dd46-404f-a3c7-5f7e496c47ab",
+    "id": "938cfde0-24bd-4a4c-9017-1fdc5e80a9ae",
     "category": "Brännvin",
     "title": "Feministvikingen",
     "melody": "Melodi: When Johnny comes marching home",
@@ -222,7 +224,7 @@
     "tags": []
   },
   {
-    "id": "d99313ff-492f-4b2f-bf9e-bcf31a53b8d7",
+    "id": "adb6d343-57a7-4ee7-aa1f-6b9a80053b58",
     "category": "Brännvin",
     "title": "Sup dig snabb",
     "melody": "Melodi: Drunken sailor",
@@ -232,7 +234,7 @@
     "tags": []
   },
   {
-    "id": "f2e30aa6-7c83-4e93-aaf5-648d8f70ee87",
+    "id": "aab55adb-8ed2-475e-862e-e999b6e5515c",
     "category": "Brännvin",
     "title": "En gång i måna'n",
     "melody": "Melodi: Mors lille Olle",
@@ -242,7 +244,7 @@
     "tags": []
   },
   {
-    "id": "60e3b8ca-6475-45e9-b0eb-e3c6b2047868",
+    "id": "2e45ec92-dd16-49b1-bcc6-d6f52e7ef895",
     "category": "Brännvin",
     "title": "Än en gång däran",
     "melody": "Text och musik: Evert Taube",
@@ -252,7 +254,7 @@
     "tags": []
   },
   {
-    "id": "4bdfc798-2043-4fc7-bbfa-176244767f83",
+    "id": "b7ec2943-426d-4836-b752-f5aeefed5b1d",
     "category": "Brännvin",
     "title": "Törsten rasar",
     "melody": "Melodi: Längtan till landet",
@@ -262,7 +264,7 @@
     "tags": []
   },
   {
-    "id": "be1b295c-a741-4cd0-bce2-fbb75d786ff4",
+    "id": "14fbda28-61fc-41bc-9606-c73a086e204c",
     "category": "Brännvin",
     "title": "Denna thaft",
     "melody": "Melodi: Helan går",
@@ -272,7 +274,7 @@
     "tags": []
   },
   {
-    "id": "24d192a2-fcc3-41d4-9f41-c8d3e84c3754",
+    "id": "8d92f560-44f0-4ac8-a918-5062fcf1ae90",
     "category": "Brännvin",
     "title": "Fillibrännvinbom",
     "melody": "Melodi: Ritsch, ratsch, fillibom",
@@ -282,7 +284,7 @@
     "tags": []
   },
   {
-    "id": "3d31c252-7cc0-4516-9431-0d82356c3659",
+    "id": "a690786f-a545-4e20-b141-e393b39416c8",
     "category": "Brännvin",
     "title": "Vad blåser det för vind idag?",
     "melody": "",
@@ -292,7 +294,7 @@
     "tags": []
   },
   {
-    "id": "9d260947-94de-4190-b941-32f595a05974",
+    "id": "902c9700-dbf0-4461-a7d5-b8c0958f43be",
     "category": "Brännvin",
     "title": "Sjömannens visa",
     "melody": "",
@@ -302,7 +304,7 @@
     "tags": []
   },
   {
-    "id": "1ea66d08-9a5d-467c-b5f8-57b1dc542279",
+    "id": "c3e41f62-ebeb-4e36-9431-c6e8423cd0dc",
     "category": "Brännvin",
     "title": "Cykelhandlarens visa",
     "melody": "",
@@ -312,7 +314,7 @@
     "tags": []
   },
   {
-    "id": "815b814c-5ff5-495a-a92d-466a962a28e6",
+    "id": "e1126aef-a480-4e6a-ab8e-06429be927a0",
     "category": "Brännvin",
     "title": "Regissörens skål",
     "melody": "",
@@ -322,7 +324,7 @@
     "tags": []
   },
   {
-    "id": "7425a622-a627-4210-b5e7-c348c0fb166a",
+    "id": "fd6ea858-dded-42e2-aeea-249b8a37fed0",
     "category": "Brännvin",
     "title": "Farväl, farväl",
     "melody": "Melodi: En sjöman älskar havets våg",
@@ -332,7 +334,7 @@
     "tags": []
   },
   {
-    "id": "14575399-db1f-44eb-9fb9-d9ecb5637a37",
+    "id": "4b09d971-c61a-4766-9427-efba24318a17",
     "category": "Brännvin",
     "title": "Hyfsvisa",
     "melody": "",
@@ -342,7 +344,7 @@
     "tags": []
   },
   {
-    "id": "8389be95-d0aa-450a-947f-ca9a058c9f18",
+    "id": "6ba10ed6-c854-4c4a-98ca-30feeebd114d",
     "category": "Brännvin",
     "title": "Jag äter inte klockor",
     "melody": "Melodi: Det var en lørdag aften",
@@ -352,7 +354,7 @@
     "tags": []
   },
   {
-    "id": "691b439f-08bd-4f35-b891-df41af16ec43",
+    "id": "526e5e5e-6057-4cb6-be49-93263ee6f9db",
     "category": "Brännvin",
     "title": "Toj hemtegubbar",
     "melody": "Melodi: Hej, tomtegubbar",
@@ -362,7 +364,7 @@
     "tags": []
   },
   {
-    "id": "6ae6f2d8-9e6b-4607-bc95-dd47f6c2ac31",
+    "id": "fa06333a-9b54-4c63-94ad-54f2a8f09a1a",
     "category": "Brännvin",
     "title": "Tussan lull",
     "melody": "Melodi: Byssan lull",
@@ -372,7 +374,7 @@
     "tags": []
   },
   {
-    "id": "6a176bad-9880-49a3-be30-54869af0c075",
+    "id": "a0768dfd-97ba-4b22-9466-ee2874753555",
     "category": "Brännvin",
     "title": "O.P. river",
     "melody": "Melodi: Ol' man river",
@@ -382,7 +384,7 @@
     "tags": []
   },
   {
-    "id": "bdee5881-4455-47a6-8adc-f5579bb7650d",
+    "id": "f10656ef-f43b-405c-82fe-2467a3ed8944",
     "category": "Brännvin",
     "title": "Magen brummar",
     "melody": "",
@@ -392,7 +394,7 @@
     "tags": []
   },
   {
-    "id": "d41783d9-d534-4d5e-9ba5-3550b56b49cb",
+    "id": "1b6e9faf-ad25-4ec6-8021-9de6a760737f",
     "category": "Brännvin",
     "title": "Tänk om man hade",
     "melody": "Melodi: Hej, tomtegubbar",
@@ -402,7 +404,7 @@
     "tags": []
   },
   {
-    "id": "c02ee140-1050-4f09-8d0f-69b0e089baf9",
+    "id": "46a7e06f-2081-4691-aa4f-764ac9ba71fe",
     "category": "Brännvin",
     "title": "För att människan",
     "melody": "Melodi: Bä bä, vita lamm",
@@ -412,7 +414,7 @@
     "tags": []
   },
   {
-    "id": "e3dea7b5-c6ee-4aa0-bf06-765d398739f8",
+    "id": "38f24958-fc03-49cb-8c69-b4b01bb08e40",
     "category": "Brännvin",
     "title": "Fans hämnd",
     "melody": "Melodi: Där som sädesfälten",
@@ -422,7 +424,7 @@
     "tags": []
   },
   {
-    "id": "7710ee19-cba4-4f64-9467-28c1cf3cb3e0",
+    "id": "a639e40a-ae5d-46a3-abbe-83cb53e9ab3c",
     "category": "Brännvin",
     "title": "'rännvinskokaren",
     "melody": "Melodi: En sockerbagare här bor i staden",
@@ -432,7 +434,7 @@
     "tags": []
   },
   {
-    "id": "6b81a66b-95e6-47e0-9dd6-b50007ed517c",
+    "id": "77439978-94e5-45c5-8d7c-358687682538",
     "category": "Brännvin",
     "title": "Jag tror, jag tror",
     "melody": "Melodi: Jag tror, jag tror på sommaren",
@@ -442,7 +444,7 @@
     "tags": []
   },
   {
-    "id": "4aa19fa0-b771-4c8d-9ffe-aaec9db1e7c1",
+    "id": "4ed13413-7f78-4e8f-94d9-a6d96fbf8632",
     "category": "Brännvin",
     "title": "Perspektiv",
     "melody": "Melodi: Skånska slott och herresäten",
@@ -452,7 +454,7 @@
     "tags": []
   },
   {
-    "id": "6ca59840-18b2-4818-bb99-5a50867e8c26",
+    "id": "52bb44f3-23f9-4456-a353-ea1722e4e37d",
     "category": "Brännvin",
     "title": "Gräv ur tundran",
     "melody": "Melodi: Katjuscha",
@@ -462,7 +464,7 @@
     "tags": []
   },
   {
-    "id": "0d76ffbe-7adb-4270-8b42-54b87905c17b",
+    "id": "f6124b2b-219a-472a-bb89-c731747c2c2a",
     "category": "Diskkm",
     "title": "DISKs Nationalsång",
     "melody": "Melodi: Rysslands Nationalsång",
@@ -472,7 +474,7 @@
     "tags": []
   },
   {
-    "id": "5e951500-c7e1-4b44-9951-44863c75081c",
+    "id": "be5265ad-0049-49ba-8d54-13de571c2596",
     "category": "Diskkm",
     "title": "Jag kan lära dig C",
     "melody": "Melodi: En helt ny värld",
@@ -484,7 +486,7 @@
     ]
   },
   {
-    "id": "cee074ed-b5a7-40f9-be58-ad0f19c8f615",
+    "id": "ee41ee96-8e64-415a-b1bd-1da58df4eb42",
     "category": "Diskkm",
     "title": "Onanera",
     "melody": "Melodi: Hallelujah, (L Cohen)",
@@ -494,7 +496,7 @@
     "tags": []
   },
   {
-    "id": "c9a92bef-c1d9-4327-9c7d-31a88386b644",
+    "id": "1ab4dbd5-0633-46ea-a84b-9053132b8ba9",
     "category": "Diskkm",
     "title": "Sång till DISK KM",
     "melody": "Melodi: Sång till friheten",
@@ -504,7 +506,7 @@
     "tags": []
   },
   {
-    "id": "e9763ccf-2027-45d8-a808-9cf74046e8a0",
+    "id": "862ab27a-4035-4fbe-b39f-cb7bb3b8a7b2",
     "category": "Diskkm",
     "title": "Tappra trasor",
     "melody": "Melodi: Internationalen",
@@ -514,7 +516,7 @@
     "tags": []
   },
   {
-    "id": "fdad941c-479b-46a0-8889-33591d8f1e13",
+    "id": "4788913e-0a2c-4f4f-a5a8-b66f69a4cea4",
     "category": "Diskkm",
     "title": "Donkkanon",
     "melody": "Melodi: Punschkanon",
@@ -524,7 +526,7 @@
     "tags": []
   },
   {
-    "id": "724452f2-7049-4ef6-9313-d8bb75e0fce8",
+    "id": "2e219029-0255-4ee6-8373-97cd78bf7c85",
     "category": "Diskkm",
     "title": "Spexkanon",
     "melody": "Melodi: Punschkanon",
@@ -534,7 +536,7 @@
     "tags": []
   },
   {
-    "id": "eda50e5c-ea87-4d29-a3ee-09ed6bc24f79",
+    "id": "afd13179-abd0-47a1-a36c-f9ffddee21b9",
     "category": "Diskkm",
     "title": "Trasig marskalk",
     "melody": "Melodi: Jag är fattig bonddräng",
@@ -544,7 +546,7 @@
     "tags": []
   },
   {
-    "id": "5efe1310-981e-4395-9461-29ccb21aec32",
+    "id": "c4ce47ed-28b6-4222-bdb8-c1490ac3eb8d",
     "category": "Diskkm",
     "title": "Blind men full",
     "melody": "Melodi: Vi gå över daggstänkta berg",
@@ -554,7 +556,7 @@
     "tags": []
   },
   {
-    "id": "34e01cd8-29a4-49c8-b15a-db464adc1c32",
+    "id": "dcbd78aa-0930-4b42-a5a7-d6b91fbf700d",
     "category": "Diskkm",
     "title": "Längden har visst betydelse",
     "melody": "Melodi: I Apladalen i Värnamo",
@@ -564,7 +566,7 @@
     "tags": []
   },
   {
-    "id": "ae634c66-d34c-48d8-bb96-18f252c51c7a",
+    "id": "5e857e2c-ce53-421f-b952-306e8c5b47b3",
     "category": "Diskkm",
     "title": "Jag är en full person",
     "melody": "Melodi: Mer jul",
@@ -574,7 +576,7 @@
     "tags": []
   },
   {
-    "id": "f8090ced-02c2-43a9-8320-3452cb66b8e8",
+    "id": "ab96ef17-f3e6-49a7-b261-639b34beb3f8",
     "category": "Diskkm",
     "title": "Disciplinsång",
     "melody": "Melodi: Rövarna i Kamomilla stad",
@@ -584,7 +586,7 @@
     "tags": []
   },
   {
-    "id": "073b9c1f-cd04-4443-b332-631806dee45e",
+    "id": "c0d8975d-fbf9-4f5c-92bf-347121349757",
     "category": "Diskkm",
     "title": "En enkel sång om studentlivet",
     "melody": "Melodi: Jag fångade en räv",
@@ -594,7 +596,7 @@
     "tags": []
   },
   {
-    "id": "e13b7d8c-771d-42e6-a252-cf90e2b60554",
+    "id": "b9825bce-8eec-4942-9c2e-81dd9514bab7",
     "category": "Diskkm",
     "title": "Nu krökas det",
     "melody": "Melodi: Nu grönskar det",
@@ -604,7 +606,7 @@
     "tags": []
   },
   {
-    "id": "e1eb2e57-fddc-40c2-9b08-5069fddb45b2",
+    "id": "b39926e4-240c-42ca-a2d4-7f01cc18f733",
     "category": "Diskkm",
     "title": "Kort svinvisa",
     "melody": "Melodi: Tomten, jag vill ha en riktig jul (refrängen)",
@@ -614,7 +616,7 @@
     "tags": []
   },
   {
-    "id": "a75e1b1b-905e-4ab4-a561-850f7e424f83",
+    "id": "c3d72432-c4ad-4ebb-af5b-70c3d3ddaa69",
     "category": "Diskkm",
     "title": "Sjörövarsången",
     "melody": "Melodi: Rövarna i Kamomilla stad",
@@ -624,7 +626,7 @@
     "tags": []
   },
   {
-    "id": "0954120b-0a8e-4a28-aaf9-111c7c3ebbfc",
+    "id": "a11b78b7-1125-40d6-a916-de411cb1b2d6",
     "category": "Diskkm",
     "title": "Min värsta tid",
     "melody": "Melodi: Vår bästa tid är nu",
@@ -634,7 +636,7 @@
     "tags": []
   },
   {
-    "id": "0d96774a-7112-4f83-b0e8-0cd7d501edf4",
+    "id": "49d6ac9a-4419-4857-b007-193862522974",
     "category": "Diskkm",
     "title": "Ge oss nå't som dövar",
     "melody": "Melodi: I Apladalen i Värnamo",
@@ -644,7 +646,7 @@
     "tags": []
   },
   {
-    "id": "857df108-ab5d-458c-94e5-1e7c128edd9a",
+    "id": "7f0b38af-e70e-4014-a3aa-3027ffbbf973",
     "category": "Diskkm",
     "title": "Subliminalt meddelande",
     "melody": "Melodi: Pippis sommarvisa",
@@ -654,7 +656,7 @@
     "tags": []
   },
   {
-    "id": "2b54c720-37c1-47e7-ab18-1d0ad905eae6",
+    "id": "d26d2c9b-f812-4802-8bb6-9e68795ea53e",
     "category": "Diskkm",
     "title": "Utnämnda av Razor",
     "melody": "Melodi: Han har öppnat pärleporten",
@@ -664,7 +666,7 @@
     "tags": []
   },
   {
-    "id": "9323e13b-dc40-4789-8a61-a0e6cb97b553",
+    "id": "2bbfd6c9-cdce-43ef-bdfe-523c3e466fc7",
     "category": "Diskkm",
     "title": "Haiku till DISKs marskalkssittning",
     "melody": "",
@@ -674,7 +676,7 @@
     "tags": []
   },
   {
-    "id": "ae054d36-4c8f-4c8a-99a1-7f2a9bd6f1d5",
+    "id": "0a4a8826-714c-4228-9a2c-b457903dfdfb",
     "category": "Diskkm",
     "title": "Klappa ej djuren för fan!",
     "melody": "Melodi: Du ska få min gamla cykel när jag dör",
@@ -684,7 +686,7 @@
     "tags": []
   },
   {
-    "id": "44bc5768-85bc-421f-a034-d4d3475459ef",
+    "id": "f796e4e0-8716-4cee-af05-df8ddd2adac0",
     "category": "Diskkm",
     "title": "Ju mera bränt vi dricker",
     "melody": "Melodi: Ju mer vi är tillsammans ",
@@ -694,7 +696,7 @@
     "tags": []
   },
   {
-    "id": "a7e544d2-70a5-41ac-9fc4-05965ac356b8",
+    "id": "d8de70d1-69b5-4568-86a6-0c7e0f6c2d3e",
     "category": "Diskkm",
     "title": "En pestig kräfta",
     "melody": "Melodi: I Apladalen i Värnamo",
@@ -704,7 +706,7 @@
     "tags": []
   },
   {
-    "id": "90fcf8c0-ecc0-4c59-97c6-9140fedbbf8f",
+    "id": "692e595e-b073-4209-bee5-0f8b62261c0d",
     "category": "Diskkm",
     "title": "Uti vår Foo Bar",
     "melody": "Melodi: Uti vår hage",
@@ -714,7 +716,7 @@
     "tags": []
   },
   {
-    "id": "a4d8c850-4dc8-49b2-9c7c-b81461520fb0",
+    "id": "e1446b0a-daed-4579-afc6-fb11ac5cbb38",
     "category": "Diskkm",
     "title": "Trasan mår",
     "melody": "Melodi: Helan går",
@@ -724,7 +726,7 @@
     "tags": []
   },
   {
-    "id": "9fbcc507-e8ff-49e1-a8b5-4f50662d6296",
+    "id": "158b5de0-a74d-4ecb-a500-2d8d323ae35c",
     "category": "Diskkm",
     "title": "Fest i Foo",
     "melody": "Melodi: Rose Tattoo",
@@ -734,7 +736,7 @@
     "tags": []
   },
   {
-    "id": "5cfc18a4-52f7-4878-92cf-d96758c0b37e",
+    "id": "4b51a155-dc91-461b-95d2-aa4c914174fe",
     "category": "Diskkm",
     "title": "KMS fel",
     "melody": "Melodi: Bögarnas fel",
@@ -744,7 +746,7 @@
     "tags": []
   },
   {
-    "id": "bff4fe99-ba57-42cd-b138-73306933d146",
+    "id": "8ee5aba4-5373-4df5-a31d-896d745c542f",
     "category": "Diskkm",
     "title": "Fria Kista-drägg",
     "melody": "Melodi: Yellow Submarine",
@@ -754,7 +756,7 @@
     "tags": []
   },
   {
-    "id": "8cd144a6-8f79-4f0a-adc1-65e7cca95b89",
+    "id": "bed1c870-c605-469b-8825-ac1682f23f65",
     "category": "Diskkm",
     "title": "Är det konstigt att man längtar efter sprit?",
     "melody": "Melodi: Är det konstigt att man längtar bort någon gång",
@@ -764,7 +766,7 @@
     "tags": []
   },
   {
-    "id": "7046e202-d412-44cd-acd6-8fa28d699a2f",
+    "id": "a98a0a2c-4a85-40ac-955d-b62bd91a37e5",
     "category": "Diskkm",
     "title": "Far, jag kan inte få ner min flaska Stroh",
     "melody": "Melodi: Far, jag kan inte få upp min kokosnöt",
@@ -774,7 +776,7 @@
     "tags": []
   },
   {
-    "id": "114d8503-9f0f-478f-a934-909672377b14",
+    "id": "792630ba-d385-46a8-a96d-d10796167e1e",
     "category": "Diskkm",
     "title": "Jannes spritsång",
     "melody": "Melodi: My Bonnie",
@@ -784,7 +786,7 @@
     "tags": []
   },
   {
-    "id": "8f7aab16-6c64-486c-8c1e-3c7a70535ff0",
+    "id": "d4b4fae0-783b-482b-9c6e-3d9f2efe24cc",
     "category": "Diskkm",
     "title": "Visa till Foo Bar",
     "melody": "Melodi: Vårvindar friska",
@@ -794,7 +796,278 @@
     "tags": []
   },
   {
-    "id": "72cc2205-cac8-4c38-b6ea-1ed79928cb4c",
+    "id": "eccf1f6f-5740-40ab-bd83-3e812e3fb109",
+    "category": "Försvarshögskola",
+    "title": "Kungssången",
+    "melody": "",
+    "author": "Text: Carl Vilhelm August Strandberg",
+    "info": "",
+    "lyrics": "Ur svenska hjärtans djup en gång,\nen samfälld och en enkel sång,\nsom går till kungen fram!\nVar honom trofast och hans ätt,\ngör kronan på hans hjässa lätt,\noch all din tro till honom sätt,\ndu folk av frejdad stam!\n\nO konung! folkets majestät\när även ditt. Beskärma det\noch värna det från fall!\nStå oss all världens härar mot,\nvi blinka ej för deras hot,\nvi lägga dem inför din fot,\nen kunglig fotapall.\n\nMen stundar ock vårt fall en dag,\nfrån dina skuldror purpurn tag,\nlyft av dig kronans tvång\noch drag de kära färger på,\ndet gamla gula och det blå,\noch med ett svärd i handen gå\ntill kamp och undergång!\n\nOch grip vår sista fana du\noch dristeliga för ännu\ni döden dina män!\nDitt trogna folk med hjältemod\nskall sömma av sitt bästa blod\nen kunglig purpur varm och god,\noch svepa dig i den.\n\nDu himlens Herre! med oss var,\nsom förr du med oss varit har,\noch liva på vår strand\ndet gamla lynnets art igen\nhos sveakungen och hans män.\nOch låt din ande vila än\nutöver nordanland!",
+    "tags": []
+  },
+  {
+    "id": "af63d85b-51d3-4d5e-a9ac-0d234d8ef7e3",
+    "category": "Försvarshögskola",
+    "title": "Flamma stolt",
+    "melody": "",
+    "author": "Text: Karl Gustav Ossiannilsson",
+    "info": "",
+    "lyrics": "Flamma stolt mot dunkla skyar\nlik en glimt av sommarns sol\növer Sveriges skogar, berg och byar,\növer vattnen av viol.\nDu, som sjunger, när du bredes,\nsom vår gamla lyckas tolk:\n\"Solen lyser! Solen lyser!\nIngen vredes åska slog vårt tappra folk!\"\n\nFlamma högt, vår kärlekstecken,\nvärm oss, när det blåser kallt!\nStråla ur de blåa vecken,\nkärlek, mera stark än allt!\nSveriges flagga, Sveriges ära,\nfornklenod och framtidstolk,\nGud är med oss, Gud är med oss\nHan skall bära stark vårt fria svenska folk.",
+    "tags": []
+  },
+  {
+    "id": "fb5ba2d8-0c88-4d53-86da-614ba1ed445c",
+    "category": "Försvarshögskola",
+    "title": "Dåne liksom åskan",
+    "melody": "",
+    "author": "",
+    "info": "",
+    "lyrics": "Dåne liksom åskan bröder\nhögt vår fosterländska sång!\nPulsen brinner, hjärtat glöder!\nMarsch framåt än en gång!\nSången ädla känslor föder.\nhjärtats nyckel heter sång.\n\n<b>||:</b> Må vi då i toner svära\ntrohetseden hand i hand.\nLiv och blod för Sveriges ära.\nHell, vårt dyra fosterland.\nLiv och blod för Sveriges ära, svära\ntrogne bröder hand i hand. <b>:||</b>",
+    "tags": []
+  },
+  {
+    "id": "a12ae08a-73a6-4be3-8779-acb41496c096",
+    "category": "Försvarshögskola",
+    "title": "Sverige",
+    "melody": "Melodi: ",
+    "author": "Text: ",
+    "info": "here",
+    "lyrics": "Sverige, Sverige, fosterland,\nvår längtans bygd, vårt hem på jorden.\nNu spela källorna, där härar lysts av brand,\noch dåd blev saga, men med hand vid hand\nsvär än ditt folk som förr de gamla trohetsorden.\n\nFall julesnö och susa djupa mo!\nBrinn österstjärna genom junikvällen!\nSverige, moder! Bliv vår strid, vår ro,\ndu land där våra barn en gång få bo\noch våra fäder sova under kyrkohällen!",
+    "tags": []
+  },
+  {
+    "id": "fc06aa12-93c0-49ec-9cfd-f255c3ee223b",
+    "category": "Försvarshögskola",
+    "title": "God save the queen",
+    "melody": "",
+    "author": "",
+    "info": "",
+    "lyrics": "God save our gracious Queen,\nLong live our noble Queen,\nGod save the Queen!\nSend her victorious,\nHappy and Glorious,\nLong to reign over us;\nGod save the Queen!\n\nO Lord our God arise,\nScatter her enemies\nAnd make them fall;\nConfound their politics,\nFrustrate their knavish tricks,\nOn Thee our hopes we fix,\nGod, save us all!\n\nThy choicest gifts in store\nOn her be pleased to pour;\nLong may she reign;\nMay she defend our laws,\nAnd ever give us cause\nTo sing with heart and voice,\nGod save the Queen!",
+    "tags": [
+      "De internationella"
+    ]
+  },
+  {
+    "id": "a589ac9f-151a-45ea-9314-8c9e7fe75519",
+    "category": "Försvarshögskola",
+    "title": "Ja vi elsker dette landet",
+    "melody": "",
+    "author": "",
+    "info": "",
+    "lyrics": "Ja, vi elsker dette landet,\nsom det stiger frem,\nfuret, værbitt over vannet,\nmed de tusen hjem.\nElsker, elsker det og tenker\npå vår far og mor\nog den saganatt som senker\ndrømme på vår jord.\nOg den saganatt som senker\nsenker drømme på vår jord.\n\nJa, vi elsker dette landet,\nsom det stiger frem,\nfuret, værbitt over vannet,\nmed de tusen hjem.\nog som fedres kamp har hevet\ndet av nød til sejr,\nogså vi, når det blir krevet\nfor dets fred slår lejr,\nogså vi, når det blir krevet\nfor dets fred, dets fred slår lejr.",
+    "tags": [
+      "De internationella"
+    ]
+  },
+  {
+    "id": "283e3bad-0874-475e-a2d6-d469406b1eaf",
+    "category": "Försvarshögskola",
+    "title": "Vårt land (Maamme)",
+    "melody": "",
+    "author": "",
+    "info": "",
+    "lyrics": "Vårt land, vårt land, vårt fosterland,\nljud högt, o dyra ord!\nEj lyfts en höjd mot himlens rand,\nej sänks en dal, ej sköljs en strand,\nmer älskad än vår bygd i nord,\nän våra fäders jord.\n\nDin blomning, sluten än i knopp, \nskall mogna ur sitt tvång; \nse, ur vår kärlek skall gå opp\nditt ljus, din glans, din fröjd, ditt hopp \noch högre klinga skall en gång \nvår fosterländska sång.",
+    "tags": [
+      "De internationella"
+    ]
+  },
+  {
+    "id": "947681b8-e844-450b-9357-583c94285dd1",
+    "category": "Försvarshögskola",
+    "title": "Det er et yndigt land",
+    "melody": "",
+    "author": "",
+    "info": "",
+    "lyrics": "Der er et yndigt land,\ndet står med brede bøge\n<b>||:</b> nær salten østerstrand; <b>:||</b>\ndet bugter sig i bakke, dal,\ndet hedder gamle Danmark,\n<b>||:</b> og det er Frejas sal. <b>:||</b>\n\nDet land endnu er skønt;\nthi blå sig søen bælter,\n<b>||:</b> og løvet står så grønt, <b>:||</b>\nog ædle kvinder, skønne mø'r\nog mænd og raske svende\n<b>||:</b> bebo de danskes øer. <b>:||</b>",
+    "tags": [
+      "De internationella"
+    ]
+  },
+  {
+    "id": "dee0db91-3bf0-4d33-9669-fc3184a2a43a",
+    "category": "Försvarshögskola",
+    "title": "Norden",
+    "melody": "Melodi: Högt över havet",
+    "author": "",
+    "info": "\"Den där oljan de hittat i Norge låg ju där redan före 1905, så den lär väl egentligen  vara svensk?\" -Tage Danielsson 1928-1985",
+    "lyrics": "Titel: Finland\nMelodi: Högt över havet\n\nFinland är Finland och Finland är bra.\nDom har en pipeline med sprit från Moskva.\nBada Bastu, piska med ris,\nhacka hål i is.\n \nDanmark är Danmark och Danmark är bra.\nDom har en jungfru som sitter så bar.\nRöde pölsor med Tuborg och lök,\nvi köpte billig krök\n \nNorge är Norge och Norge är bra.\nDom har den olja som vi vill ha.\nDyrt i baren ett jävla pris,\nklubba säl med is.\n \nIsland är Island och Island är bra.\nKriser, vulkaner och hästar dom har.\nJag fiser i geisern vad var det jag sa, valspeck varje dag.\n\nRyssland är Ryssland och Ryssland är bra.\nDe tar en halvö som tillhör Ukraina.\nShotta vodka, och boffa lim,\ninvadera Krim!\n\nTyskland är Tyskland och Tyskland är bra.\nde har en färja som alla vill ta.\nLasta bilen, lite för full\nFastnar i en tull.\n \nSverige är Sverige och Sverige är bäst.\nIngvar Kamprad han tjänar mest.\nUllared, Abba och Absolut,\nNu är visan slut.",
+    "tags": []
+  },
+  {
+    "id": "c9598866-4047-4002-a650-afd1ec647e70",
+    "category": "Försvarshögskola",
+    "title": "Korvettvisan",
+    "melody": "Melodi: I sommarenss soliga dagar ",
+    "author": "",
+    "info": "",
+    "lyrics": "Från fänrikar till amiraler\nhörs jubel och lyftas pokaler.\nFör flottans stoltaste fartyg\nvi seglar på korvett, korvett, korvett.\nDet bästa skepp, man nånsin' sett\nsen amiralen var kadett.\nEn lillebror, hälften så stor\nnär jagarna till skroten for.\nMen stoltast av alla på haven\nvi seglar på korvett, korvett, korvett!",
+    "tags": [
+      "De militära"
+    ]
+  },
+  {
+    "id": "034b36d1-01f0-4c54-a168-75029b638d16",
+    "category": "Försvarshögskola",
+    "title": "Kulan går",
+    "melody": "Melodi: Helan går",
+    "author": "",
+    "info": "",
+    "lyrics": "Kulan går\nmed avståndet rätt och vinden mätt\nkulan går\nom du bara riktar rätt\noch den som inte kulan tar\nfår leva ännu några dar\nkulan går\nom du trycker av så nätt!",
+    "tags": [
+      "De militära",
+      "Helan går"
+    ]
+  },
+  {
+    "id": "76767581-8496-4cad-b1b4-a148e802f1bd",
+    "category": "Försvarshögskola",
+    "title": "Lille Ivan",
+    "melody": "Melodi: Bamsevisan",
+    "author": "",
+    "info": "",
+    "lyrics": "Lille Ivan sitter i sin ubåt,\nsjunkbomb kommer, vatten strömmar in.\nUbåtsdelar ligger där på botten,\nlille Ivan simmar aldrig mer\nBlubb a blubb a blubb a blubb a blubb a blubb a \nblubb a blubb a blubb a blubb a blubb a blubb a\nblubb a blubb a blubb\n\nLille Ivan sitter i sitt MiG-plan,\nrobot kommer, Ivan faller ner\nflygplansdelar ligger där och brinner,\nlille Ivan flyger aldrig mer.\nBom a bom a bom a bom a bom a bom a bom a\nbom a bom a bom a bom a bom a bom a bom a\nbom\n\nLille Ivan springer över schlätta\nK-pist smattar, Ivan falller ner\nBlod och slamsor ligger sprids utöver schlätta\nlille Ivan springer aldrig mer\n\nPANG",
+    "tags": [
+      "De militära"
+    ]
+  },
+  {
+    "id": "adcd46d3-52d8-4ff2-b70f-b4bc1dc3f92b",
+    "category": "Försvarshögskola",
+    "title": "Flygarsupen",
+    "melody": "Melodi: Flickan hon går i ringen",
+    "author": "",
+    "info": "",
+    "lyrics": "Vi flygare taga supar med fart och med kläm,\nVi slår dem i våra strupar en tre, fyra, fem.\nHå-hå, ja-ja, ja jäklar i dé.\nNu går den i magen i lodrät piké!\n\nVi flygare taga Halvan på vårt lilla sätt,\nVi störtar den ner i djupen uti vårt porträtt.\nHå-hå, ja-ja, vad livet är kort,\nDen nubben skall säkert få fler i eskort!\n\nOch Tersen den bliver trötter, att på bordet stå.\nOch redan den börjat stiga mot himmelen blå.\nDen skevar åt vänster och svänger en stund,\nGör sedan en looping och hamnar i mund.",
+    "tags": [
+      "De militära",
+      "Flygarvisor"
+    ]
+  },
+  {
+    "id": "b7b23428-f93c-4edf-8b2e-bc5137c4584f",
+    "category": "Försvarshögskola",
+    "title": "fattig krigsman",
+    "melody": "Melodi: Fattig bonddräng",
+    "author": "",
+    "info": "\"Ingen dikt har någonsinn skrivits av en vattendrickare\" -Horatio 65-8 f kr",
+    "lyrics": "Jag är en fattig krigsman men jag lever äbå.\nDagar går och kommer medan jag spårar på.\nMarschar, går och skjuter, plockar hylsor och bär.\nGår bak mina hundar observerar och svär.\n\nJag är en fattig krigsman och jag hyllar mitt snus.\nOch när löning kommer vill jag ta mig ett rus.\nSen, när jag blivit livad vill jag tampas och slåss.\nVila hos en flicka vill jag också förstås.\n\nSen, Så kommer månda'n och då vill våran chef,\nAtt jag ska till gymmet, men då sover jag helst.\nChefen kan väl sova hela måndagen men,\nFör en fattig krigsman börjar knoget igen.\n\nSå gårhela veckan, alla dagar och år.\nJag går med min AK, och jag skjuter och slår.\nJag kör mina hundar och jag vaktar mitt slott.\nSpårar, gnor och trälar, och till sist går jag bort.",
+    "tags": [
+      "de militära"
+    ]
+  },
+  {
+    "id": "59cddbed-1191-420c-bbe3-db068b56016d",
+    "category": "Försvarshögskola",
+    "title": "Brev från flyget",
+    "melody": "Melodi: Brev från kolonien",
+    "author": "",
+    "info": "",
+    "lyrics": "MiG:en startar, SIS:en vakar.\nBlue Shark gapar, JAS:en jagar,\nVarje päsk och varje annan storhelg\nryssen älskar vara FISK:ens lilla revelj.\n\nUt pả havet, seglar flottan,\ndricker punsch och spyr i pottanm\nskepp pả grund och lossa tătar,\nflottan lyckas inte ens jaga ubatar.\n\nInfanteriet, de är klena\nPansar fastnat, Art är sena.\nVilken tur att vi har Gripen\nden hjälper gärna till och glider nedför strip(p)en.\n\nJa, tänk vad flyget häller ställning\nnär flottan snurrar, missar minfällning \noch stackars Jägarn som sitter och kikar\nde käkar VA-mat och bajsar tretumsspikar.\n\nJa, tack och hej fràn stolta flyget.\nVi vet ni ger oss, högsta betyget.\nMen vi trivs väst i innebandysalen\nEller helst i fikarummet och hangaren.",
+    "tags": []
+  },
+  {
+    "id": "ba3f3779-3dae-4037-8d7c-a5b211d55119",
+    "category": "Försvarshögskola",
+    "title": "Ode till flygbensinet",
+    "melody": "Melodi: helan går",
+    "author": "",
+    "info": "",
+    "lyrics": "Flygbensin är drycken för vart fyllesvin\nFlygbensin är rått som terpentin\nDet piggar upp din trötta kropp\noch hettar upp ditt blodomlopp\nFlygbensin ...\när Mannfreds medicin",
+    "tags": [
+      "Flygarvisor",
+      "Helan går",
+      "De militära"
+    ]
+  },
+  {
+    "id": "0ba61251-fe5f-4817-b605-295eba4221b2",
+    "category": "Försvarshögskola",
+    "title": "Pang Pang Pangsarvagn",
+    "melody": "Melodi: Bä Bä vita lamm",
+    "author": "",
+    "info": "",
+    "lyrics": "Pang Pang Pangsarvagn\nhar du något krut\nNej, nej inte jag\ndet har tagit slut\nSka vi ta en snaps \neller kanske två\nmen ej vodka \nRyssen kommer då",
+    "tags": [
+      "De militära"
+    ]
+  },
+  {
+    "id": "b92f1f17-bde7-4945-b002-5b4c401565de",
+    "category": "Försvarshögskola",
+    "title": "Molnen",
+    "melody": "Melodi: Nu är det jul",
+    "author": "",
+    "info": "",
+    "lyrics": "Nu tar vi fart, flyget så klart\nVädret är toppen.\nHopp tralala\nTornet sa nu, startbana sju, startbana sju.\n\nVi flyger så högt vi kan i luften.\nVi flyger så högt vi kan i luften.\nBara högre, ännu högre, ännu högre i molnen.\n\nJag ser ingenting, moln runtomkring.\nMotorn har stannat.\nHopp tralala\nPlanet i stall, det här var ju ball, det här var ju ball.\n\nVi flyger så högt vi kan i luften.\nVi flyger så högt vi kan i luften.\nBara högre, ännu högre, ännu högre i molnen.\n\nVi störtar så klart, hoppa i fart.\nPlanet det krachat.\nHopp tralala\nIngen skärm ut , nu är det slut, nu är det slut.",
+    "tags": [
+      "Flygarvisor",
+      "De militära"
+    ]
+  },
+  {
+    "id": "7bc841b3-bd91-4b90-8857-92268e407064",
+    "category": "Försvarshögskola",
+    "title": "Nationalsnapsen",
+    "melody": "Melodi: Du gamla du fria",
+    "author": "",
+    "info": "",
+    "lyrics": "Du gamla, du fina, du storsvenska snaps,\nsnart randas ditt glädjedöda öde.\nNog minns vi med saknad den tid då krånglet slapps,\n<b>||:</b> Ditt låga pris och dina mängders flöde <b>:||</b>\n\nJag tronar på guld från en lånad bankir,\nnär chartrat mitt plan flyr Sveriges torka.\nJag minns hur det var och jag anar hur det blir.\n<b>||:</b> Ja, jag vill leva loppan på Mallorca <b>:||</b>",
+    "tags": []
+  },
+  {
+    "id": "157c1ebb-5748-486e-98a2-def70454b2c4",
+    "category": "Försvarshögskola",
+    "title": "Älgen Hans",
+    "melody": "Melodi: Helan går",
+    "author": "",
+    "info": "",
+    "lyrics": "Älgen Hans, han äter både sten och grus\nÄlgen Hans, han välter stora hus\nÄlgen, älgen, älgen, älgen\nÄlgen, älgen, älgen, älgen\nÄlgen Hans......\n...han har så stora horn!",
+    "tags": [
+      "Helan går"
+    ]
+  },
+  {
+    "id": "bdfcdc01-8cdc-49a3-8e8a-1cbe5a2cd364",
+    "category": "Försvarshögskola",
+    "title": "Öl, vin, sprit",
+    "melody": "Melodi: Jenka",
+    "author": "",
+    "info": "",
+    "lyrics": "Öl, vin sprit och gammal finkel,\nhar fått mig att se i vinkel.\nDarför hamnar all min mat \nej i munnen utan i min\nhörapparat.",
+    "tags": []
+  },
+  {
+    "id": "93729856-e99a-4324-8ccf-944d344628e6",
+    "category": "Försvarshögskola",
+    "title": "Mitt lilla lån",
+    "melody": "Melodi: Hej Tomtegubbar",
+    "author": "",
+    "info": "",
+    "lyrics": "<b>||:</b> Mitt lilla lån det räcker inte till,\ndet går till öl och brännvin <b>:||</b>\nTill öl och brännvin går det åt\noch till små böcker emellanåt.\nMitt lilla lån det räcker inte till, \ndet går åt till öl och brännvin.",
+    "tags": []
+  },
+  {
+    "id": "78994d72-0278-4385-ab5d-618f5aa922c7",
+    "category": "Försvarshögskola",
+    "title": "Till mässen ränner jag",
+    "melody": "Melodi: Snickerboa",
+    "author": "",
+    "info": "",
+    "lyrics": "",
+    "tags": []
+  },
+  {
+    "id": "65c76a74-3f6e-4245-8aeb-608a87196a51",
+    "category": "Försvarshögskola",
+    "title": "Kom och häng i mässen",
+    "melody": "",
+    "author": "",
+    "info": "",
+    "lyrics": "Kom och häng i mässen\ntjolahopp tjolahej, tjolahoppsansa\nkom och häng i mässen\ntjolahej tjolahoppsansa\n\nHar du sett mitt schema\nallt som ska göras denna vecka?\nHar du sett mitt schema\nför det har faktiskt jag\nTiden är dyrbar\nhar både disk och plugg och hyra\nMen mage fylld med dricka\när ju också bra att ha\n\nSả kom och häng i mässen\ntjolahopp tjolahej, tjolahoppsansa\nKom och glöm i mässen\ntjolahej tjolahoppsansa.",
+    "tags": []
+  },
+  {
+    "id": "9455333d-7ef4-444b-83c6-9fe9876aba79",
     "category": "Huvudvärk",
     "title": "Treo-Comp",
     "melody": "Melodi: Längtan till landet",
@@ -804,7 +1077,7 @@
     "tags": []
   },
   {
-    "id": "e3142577-da06-4492-b10b-4859cdff8d86",
+    "id": "6f3cfe60-5510-4e50-b5b6-a0a676f38887",
     "category": "Huvudvärk",
     "title": "När mitt rus har tagit slut",
     "melody": "Melodi: I ett hus vid skogens slut",
@@ -814,7 +1087,7 @@
     "tags": []
   },
   {
-    "id": "85b3ddb2-6161-4af0-bc34-d2ae6da3a4c3",
+    "id": "d8a4f37d-1898-4a9a-a473-54164fe99532",
     "category": "Huvudvärk",
     "title": "Strömmar av whisky",
     "melody": "Melodi: Drömmar av silver",
@@ -824,7 +1097,7 @@
     "tags": []
   },
   {
-    "id": "61176361-9574-4ef2-a948-88c67b6e5901",
+    "id": "e6a22610-4e95-4585-8c5e-c402ed462989",
     "category": "Huvudvärk",
     "title": "Bakfyllesång",
     "melody": "Melodi: Änglamark",
@@ -834,7 +1107,7 @@
     "tags": []
   },
   {
-    "id": "a486228d-e79e-402f-acaf-d28bc878b9fd",
+    "id": "65724e88-2621-46a6-a93c-57ebbae557d7",
     "category": "Huvudvärk",
     "title": "Full just idag",
     "melody": "Melodi: Rosen (refrängen)",
@@ -844,7 +1117,7 @@
     "tags": []
   },
   {
-    "id": "5e33f351-49cc-448a-8072-40ecb41a58f9",
+    "id": "0ef31ff0-ec73-4413-83e5-7e8cab1f729e",
     "category": "Huvudvärk",
     "title": "Antisnapsvisa",
     "melody": "Melodi: Sjösala vals",
@@ -854,7 +1127,7 @@
     "tags": []
   },
   {
-    "id": "fbf8b2e6-0ffe-4eda-b885-5d0302489ed8",
+    "id": "6585d0b4-e6c0-48d7-b791-27c0e4ab9375",
     "category": "Huvudvärk",
     "title": "Sämre och sämre",
     "melody": "Melodi: Bättre och bättre, dag för dag",
@@ -864,7 +1137,7 @@
     "tags": []
   },
   {
-    "id": "4dee1039-ed36-4de9-8891-575947f34955",
+    "id": "465239da-114f-4fb4-94c4-d5995c8ff32e",
     "category": "Huvudvärk",
     "title": "Vit vecka",
     "melody": "Melodi: White Christmas",
@@ -874,7 +1147,7 @@
     "tags": []
   },
   {
-    "id": "24077bce-49c8-48d3-8b4b-90ae952cc7cf",
+    "id": "6e942da1-c76c-4e5f-8eb2-1134a1d6b7e6",
     "category": "Huvudvärk",
     "title": "Minnet",
     "melody": "Melodi: Memory",
@@ -884,7 +1157,7 @@
     "tags": []
   },
   {
-    "id": "f41d5206-2d75-46a6-933d-6bff51996bdf",
+    "id": "fc4b7718-2f17-4b20-9065-539e024e7045",
     "category": "Huvudvärk",
     "title": "Buller och trätor",
     "melody": "Melodi: Ja, må han leva",
@@ -894,7 +1167,7 @@
     "tags": []
   },
   {
-    "id": "92f71d0b-8311-49c0-b583-7627de96d852",
+    "id": "0f876829-8cd2-443d-a2f3-d62360c33979",
     "category": "Huvudvärk",
     "title": "Krognota",
     "melody": "Melodi: Lysmaskidyll (\"Glow Worm\")",
@@ -904,7 +1177,7 @@
     "tags": []
   },
   {
-    "id": "d954f83f-496b-41ce-82dd-435f3b24db09",
+    "id": "506e1b7b-b861-4561-b452-c4fa57960e90",
     "category": "Kebabtallrik",
     "title": "Gangnam Style",
     "melody": "Gangnam Style",
@@ -914,7 +1187,7 @@
     "tags": []
   },
   {
-    "id": "b11beea7-dd97-496c-b3c6-0979718d7768",
+    "id": "3df0daee-8858-4119-84f9-101cf51b2b97",
     "category": "Kebabtallrik",
     "title": "Balladen om Theobald Thor",
     "melody": "Melodi: Ball of Inverness",
@@ -924,7 +1197,19 @@
     "tags": []
   },
   {
-    "id": "d5312375-b7ce-426b-bc69-e89706b8d85c",
+    "id": "e9a7b777-a974-407b-a4be-7df8986b01f9",
+    "category": "Kebabtallrik",
+    "title": "Gasflygmasken",
+    "melody": "Melodi: I sommarens soliga dagar",
+    "author": "",
+    "info": "",
+    "lyrics": "En gasflygmaskin det uppfann jag\noch upp genom luften försvann jag\noch flyga i tre minuter hann jag\nsen hände allt det här, och lite till\n\nFörst kom ett brak\nsen kom ett vin\nsen kom hela flygmaskin\nsen kom en krans\nfrån farbror Franz\noch sen kom stadens ambulans\noch sen kom det tre journalister\nfrån Stockholms morgonblad\noch sist kom jag.",
+    "tags": [
+      "Flygarvisor"
+    ]
+  },
+  {
+    "id": "61aaa041-7087-4dc1-9124-efcefbdde464",
     "category": "Klassiskt",
     "title": "Nationalsången",
     "melody": "",
@@ -934,7 +1219,7 @@
     "tags": []
   },
   {
-    "id": "2c985b3e-5e0b-4e63-8923-e32e8a84cadb",
+    "id": "f529a517-b0d3-47c8-bed7-48672dc979ca",
     "category": "Klassiskt",
     "title": "Studentsången",
     "melody": "Melodi: Prins Gustaf",
@@ -944,7 +1229,7 @@
     "tags": []
   },
   {
-    "id": "5da089dc-74f5-481f-a040-f00a4a556ff4",
+    "id": "2d948037-58c0-44c2-8570-1b91a5928563",
     "category": "Klassiskt",
     "title": "Nu grönskar det",
     "melody": "Melodi: Johann Sebastian Bach, ur Bondekantaten",
@@ -954,7 +1239,7 @@
     "tags": []
   },
   {
-    "id": "79165dcb-d4ae-4127-b9f1-8abfe28bcdb7",
+    "id": "b3a24ee2-a15e-4871-a95f-da3651da5d00",
     "category": "Klassiskt",
     "title": "Den blomstertid nu kommer",
     "melody": "",
@@ -964,7 +1249,7 @@
     "tags": []
   },
   {
-    "id": "4288701c-799e-40ea-b68d-de6f396563a3",
+    "id": "87d7899d-db0d-49a7-9719-dd37693277c9",
     "category": "Klassiskt",
     "title": "Längtan till landet",
     "melody": "Melodi: Otto Lindblad",
@@ -974,7 +1259,7 @@
     "tags": []
   },
   {
-    "id": "663e2114-4e45-4ddc-8154-67c9a6ecb93a",
+    "id": "ff97fbf9-feef-415e-88e2-54f9e4e3a11e",
     "category": "Klassiskt",
     "title": "Vårvindar friska",
     "melody": "",
@@ -984,7 +1269,7 @@
     "tags": []
   },
   {
-    "id": "500876b2-1c4d-479a-bc62-f49de01824cd",
+    "id": "c9959f8f-5c42-4d3a-8753-53d615bc49ad",
     "category": "Klassiskt",
     "title": "Uti vår hage",
     "melody": "Text och melodi av traditionellt gotländskt ursprung",
@@ -994,7 +1279,7 @@
     "tags": []
   },
   {
-    "id": "3722ab90-fd2a-43f9-b211-e4790a08cfca",
+    "id": "4b581225-6892-4387-9896-77593c5a6980",
     "category": "Klassiskt",
     "title": "Sverige",
     "melody": "Melodi: Wilhelm Stenhammar",
@@ -1004,7 +1289,7 @@
     "tags": []
   },
   {
-    "id": "ea8dc6c1-67af-4bdc-a4d2-59f1f5f4d3de",
+    "id": "2f854480-6c54-4807-b96a-1f994c5b0bae",
     "category": "Klassiskt",
     "title": "O gamla klang- och jubeltid",
     "melody": "Melodi: O alte Burschenherrlichkeit",
@@ -1014,7 +1299,7 @@
     "tags": []
   },
   {
-    "id": "de88c127-be89-4ebd-a672-0b3d34ab06a9",
+    "id": "cf057cd4-d6bd-4771-b6d6-6e31cff84705",
     "category": "Kräftor",
     "title": "Kräftvisa",
     "melody": "Melodi: Studentsången",
@@ -1024,7 +1309,7 @@
     "tags": []
   },
   {
-    "id": "0df1e95f-1c70-4ee5-a913-23d58debf1e6",
+    "id": "692166d8-f2ad-4634-9509-4a0cd04b58ab",
     "category": "Kräftor",
     "title": "Kräfta, kräfta prydd med dill",
     "melody": "Melodi: Blinka lilla stjärna",
@@ -1034,7 +1319,7 @@
     "tags": []
   },
   {
-    "id": "d52f4215-ee8e-460d-b21a-4fc99713538e",
+    "id": "0da330d2-3ce8-4fb5-a2e2-85fd9ed59312",
     "category": "Kräftor",
     "title": "Små nubbarna",
     "melody": "Melodi: Små grodorna",
@@ -1044,7 +1329,7 @@
     "tags": []
   },
   {
-    "id": "4c38a5a2-30c0-428c-bd30-02fccaac638b",
+    "id": "9e73ecac-0a5b-4806-9dac-100619f48774",
     "category": "Kräftor",
     "title": "Stänk utav sälta",
     "melody": "Melodi: Mors lille Olle",
@@ -1054,7 +1339,7 @@
     "tags": []
   },
   {
-    "id": "7ae2b8a6-5a5c-4f24-9f48-282ab96ad80f",
+    "id": "d24c3b79-6a74-43bb-a4ad-76df743e4134",
     "category": "Kräftor",
     "title": "Kräftorna sköna",
     "melody": "Melodi: Vårvindar friska",
@@ -1064,7 +1349,7 @@
     "tags": []
   },
   {
-    "id": "8b757476-dcaf-4ed5-afaf-83dfd8f7facd",
+    "id": "98e2a149-28d6-4952-a411-d7f2e812f61d",
     "category": "Kräftor",
     "title": "Kräftor kräva dessa drycker",
     "melody": "Melodi: Räven raskar över isen",
@@ -1074,7 +1359,7 @@
     "tags": []
   },
   {
-    "id": "2ef85b84-d34d-4927-b477-c18586eaa50c",
+    "id": "a239711b-5e05-471c-ace1-0a7c8f368a10",
     "category": "Kräftor",
     "title": "Våran kräfta",
     "melody": "Melodi: Gubben Noak",
@@ -1084,7 +1369,7 @@
     "tags": []
   },
   {
-    "id": "aa957bfe-19bb-426a-9b9e-639571008533",
+    "id": "1335f036-9511-4858-b5d8-9ac050ee6637",
     "category": "Kräftor",
     "title": "Å detta brännvin",
     "melody": "Melodi: I Apladalen i Värnamo",
@@ -1094,7 +1379,7 @@
     "tags": []
   },
   {
-    "id": "cc0c98a7-fbde-419b-b572-01de6149fce5",
+    "id": "41064246-22f1-4975-84a8-59a40eb65337",
     "category": "KTH",
     "title": "A-Sektionen",
     "melody": "Melodi: Rule, Britannia",
@@ -1106,7 +1391,7 @@
     ]
   },
   {
-    "id": "e9022a8a-23bf-4ac9-b206-99d481bc0bc6",
+    "id": "9cc55d31-abbf-46f0-8f43-e92595390a1a",
     "category": "KTH",
     "title": "D-Sektionen",
     "melody": "Melodi: Who´s that lying on the runway",
@@ -1118,7 +1403,7 @@
     ]
   },
   {
-    "id": "3a94b923-91e1-41d4-8ac4-b690d7035962",
+    "id": "ed4a140b-4828-4fcd-8fcb-5ebbadd088fe",
     "category": "KTH",
     "title": "E-Sektionen",
     "melody": "",
@@ -1130,7 +1415,7 @@
     ]
   },
   {
-    "id": "41b1c167-2a3f-4a23-822d-c88c1063b0ed",
+    "id": "d5cb8df5-f852-48c3-bb8c-fa1acac3ddd0",
     "category": "KTH",
     "title": "F-Sektionen",
     "melody": "",
@@ -1142,7 +1427,7 @@
     ]
   },
   {
-    "id": "9024f8a9-ffc5-4708-b4dd-e152725c570d",
+    "id": "34afd26b-82df-4b67-a0ae-fc08fcdc6680",
     "category": "KTH",
     "title": "ING-Sektionen",
     "melody": "Melodi: Robin Hood Rooster song",
@@ -1154,7 +1439,7 @@
     ]
   },
   {
-    "id": "74147a36-d5cd-4096-9322-32bd2b0f61a8",
+    "id": "28d34d72-e64d-48db-b8ee-c43ab85eab31",
     "category": "KTH",
     "title": "K-Sektionen",
     "melody": "Melodi: What shall we do with a drunken sailor?",
@@ -1166,7 +1451,7 @@
     ]
   },
   {
-    "id": "897fcdb2-765f-4114-b44d-e9ec73112843",
+    "id": "f43e5004-6dc2-4a34-887d-abee56bcc0e5",
     "category": "KTH",
     "title": "M-Sektionen",
     "melody": "Melodi: When the Saint Go Marching In",
@@ -1178,7 +1463,7 @@
     ]
   },
   {
-    "id": "0263f067-e7ad-4656-90cd-5fd8a34e3c76",
+    "id": "b4413946-e2d6-41ff-a3e8-7f85783de1a5",
     "category": "KTH",
     "title": "V-Sektionen",
     "melody": "Melodi: When the Saint Go Marching In",
@@ -1190,7 +1475,7 @@
     ]
   },
   {
-    "id": "6f13747c-3dbc-4224-854f-6f2c2f6eca58",
+    "id": "63b33a37-95aa-4212-9d48-f548d5e359c7",
     "category": "KTH",
     "title": "W-Sektionen",
     "melody": "",
@@ -1202,7 +1487,7 @@
     ]
   },
   {
-    "id": "36aef0f6-4252-453c-8808-e5f36a5fb0bd",
+    "id": "6d9657a0-6210-4ed1-8df7-8fc0b36adfd6",
     "category": "KTH",
     "title": "Konglig Fysiks Paradhymn",
     "melody": "Melodi: Katyuscha",
@@ -1215,7 +1500,7 @@
     ]
   },
   {
-    "id": "9493fc87-9667-49d3-ba21-7898724f7534",
+    "id": "cde7d9d3-0e8a-43fa-b279-6bd6195355aa",
     "category": "KTH",
     "title": "Årskursernas hederssång",
     "melody": "",
@@ -1228,7 +1513,7 @@
     ]
   },
   {
-    "id": "a347263c-5b5d-46fb-8442-9c50b8499712",
+    "id": "53b59a8e-18ad-426d-bee6-968f1d579862",
     "category": "KTH",
     "title": "De Brevitate Vitae",
     "melody": "",
@@ -1241,7 +1526,7 @@
     ]
   },
   {
-    "id": "395a4a73-5b8b-4043-802e-523a8677a45b",
+    "id": "32926c1c-9330-4b4f-a2c2-584ce874c321",
     "category": "KTH",
     "title": "Överföhssång",
     "melody": "Melodi: Kungssången",
@@ -1254,7 +1539,7 @@
     ]
   },
   {
-    "id": "ae494590-e9f9-47ec-9124-59a50f13410b",
+    "id": "93f00bdf-f977-4f79-be7c-02ea8e9711fb",
     "category": "KTH",
     "title": "När Fumla blev fem",
     "melody": "Melodi: När vi två blir en (Gyllene Tider)",
@@ -1267,7 +1552,7 @@
     ]
   },
   {
-    "id": "e89fc3cc-9df6-44ce-804a-b14e36f64315",
+    "id": "972835e3-eafe-48b5-9049-317532342e91",
     "category": "Punsch",
     "title": "Punschen kommer (kall)",
     "melody": "Melodi: Änkevalsen ur Glada änkan",
@@ -1277,7 +1562,7 @@
     "tags": []
   },
   {
-    "id": "b9d0d0f4-fb18-454a-b18d-0242ee756c8e",
+    "id": "b2e6cb56-b52f-4eaf-b20b-4a14bcdb8263",
     "category": "Punsch",
     "title": "Punschen kommer (varm)",
     "melody": "Melodi: Änkevalsen ur Glada änkan",
@@ -1287,7 +1572,7 @@
     "tags": []
   },
   {
-    "id": "426e7805-58ec-4788-ab18-98268e00f34e",
+    "id": "280c916d-6230-45bf-9efe-83cd9700eaf5",
     "category": "Punsch",
     "title": "Djungelpunsch",
     "melody": "Melodi: Var nöjd med allt som livet ger",
@@ -1297,7 +1582,7 @@
     "tags": []
   },
   {
-    "id": "e230f9d5-bbf3-4962-8cbb-a66a6995eb06",
+    "id": "4cb87136-ac70-453a-a2b6-001f77a86152",
     "category": "Punsch",
     "title": "Lilla punschvisan",
     "melody": "",
@@ -1307,7 +1592,7 @@
     "tags": []
   },
   {
-    "id": "fc9b6731-b85c-4be5-9000-bd0602d3fd5b",
+    "id": "fdfa2a58-bcac-42ce-860b-86489038ae22",
     "category": "Punsch",
     "title": "Jag gillar Sören",
     "melody": "Melodi: Lilla punschvisan",
@@ -1317,7 +1602,7 @@
     "tags": []
   },
   {
-    "id": "249c35f9-18ee-4993-bd11-b93e617c90b2",
+    "id": "a556ba3a-00c2-498c-8db5-239fe04ab190",
     "category": "Punsch",
     "title": "Jag gillar punken",
     "melody": "Melodi: Lilla punschvisan",
@@ -1327,7 +1612,7 @@
     "tags": []
   },
   {
-    "id": "37378643-bf00-4f95-aedf-4bf9e937e93e",
+    "id": "6fab24b8-c80e-4444-95f3-187a348f042b",
     "category": "Punsch",
     "title": "Visa vid torsdagskväll",
     "melody": "Melodi: Visa vid midsommartid",
@@ -1337,7 +1622,7 @@
     "tags": []
   },
   {
-    "id": "4ae49724-23fd-4c1d-88bc-b1998340ce7c",
+    "id": "84009e8f-8d4b-4427-b6de-c8c9f0c6d281",
     "category": "Punsch",
     "title": "Studiemedelsrondo",
     "melody": "Melodi: Lossa sand",
@@ -1347,7 +1632,7 @@
     "tags": []
   },
   {
-    "id": "c65e40b0-97b9-4269-af05-3e9f3a99779c",
+    "id": "b97462c8-528a-428f-b1cc-14d8db2241e7",
     "category": "Punsch",
     "title": "Punschkanon",
     "melody": "",
@@ -1357,7 +1642,7 @@
     "tags": []
   },
   {
-    "id": "0644572d-3ef0-4487-9d14-c26bf8090f32",
+    "id": "16a53c37-ec8b-4a36-b8f1-76eef355a247",
     "category": "Punsch",
     "title": "Sveriges arraktionalhymn",
     "melody": "Melodi: Du gamla du fria",
@@ -1367,7 +1652,7 @@
     "tags": []
   },
   {
-    "id": "89bd0ccd-b451-4102-bb24-925db4d94b2f",
+    "id": "5595dc07-11f0-4a2c-a687-e18c71762fef",
     "category": "Punsch",
     "title": "Punsch, punsch",
     "melody": "Melodi: Ritsch, ratsch, fillibom",
@@ -1377,7 +1662,7 @@
     "tags": []
   },
   {
-    "id": "457af8ce-c037-40a4-8fb9-22d5038d8084",
+    "id": "8f3cdb1f-e2b0-4ba5-9ed4-3a408ba0e04d",
     "category": "Punsch",
     "title": "FestUs punschvisa",
     "melody": "Melodi: Tomtarnas julnatt",
@@ -1387,7 +1672,7 @@
     "tags": []
   },
   {
-    "id": "398b21de-1064-4ffd-94a6-fdfe1f3ea00c",
+    "id": "075d54c3-4593-49a0-9e6a-f5beb052ebe1",
     "category": "Punsch",
     "title": "Punschens lov",
     "melody": "Melodi: Rövarna i Kamomilla stad",
@@ -1397,7 +1682,7 @@
     "tags": []
   },
   {
-    "id": "b7e36464-b0c0-4495-b32b-089d3e75c41a",
+    "id": "3c88ef5d-c89b-4ecf-abd3-2d9d84d95c71",
     "category": "Punsch",
     "title": "P.U.S.S. Punschvisa",
     "melody": "Melodi: Öppna din dörr",
@@ -1407,7 +1692,7 @@
     "tags": []
   },
   {
-    "id": "931d57b2-3e80-41b9-9ea1-e470bf2d7ebe",
+    "id": "ee351655-29a1-49ff-aea4-5ec6115132e0",
     "category": "Punsch",
     "title": "Bered din kropp för punschen",
     "melody": "Melodi: Bered en väg för herren",
@@ -1417,7 +1702,7 @@
     "tags": []
   },
   {
-    "id": "6a5a1329-ffa0-4cc8-a559-9c2e221636b4",
+    "id": "1dff5e72-5720-44ad-b6bf-fadf621d1087",
     "category": "Punsch",
     "title": "Änglapunsch",
     "melody": "Melodi: Änglamark",
@@ -1427,7 +1712,7 @@
     "tags": []
   },
   {
-    "id": "c61ad004-8249-495d-b285-99d13e374ba6",
+    "id": "11d8e8a0-8cc0-4703-b8c7-126293faf58f",
     "category": "Punsch",
     "title": "Visa vid doft av punsch",
     "melody": "Melodi: Visa vid vindens ängar",
@@ -1437,7 +1722,7 @@
     "tags": []
   },
   {
-    "id": "27c023fe-fab3-4c58-888c-525f4ea67f7c",
+    "id": "a2da0051-a0a6-4e16-8a6b-d51abaf73efb",
     "category": "Punsch",
     "title": "Kaffe, kaffe, kaffe",
     "melody": "Melodi: Du ska få min gamla cykel när jag dör",
@@ -1447,7 +1732,7 @@
     "tags": []
   },
   {
-    "id": "55cd474e-ae3c-4338-acb4-49538e48703b",
+    "id": "4a60309a-29c8-48a8-a816-ed66b6792fc8",
     "category": "Punsch",
     "title": "Punschvisa",
     "melody": "Melodi: Med en enkel tulipan",
@@ -1457,7 +1742,7 @@
     "tags": []
   },
   {
-    "id": "94ac09d5-e2c9-4f04-9c95-6328faeadc97",
+    "id": "bfd8a72a-7069-4fa0-a9f7-3be8ec604617",
     "category": "Punsch",
     "title": "Vädjan till punschen",
     "melody": "Melodi: Sov du lilla videung",
@@ -1467,7 +1752,7 @@
     "tags": []
   },
   {
-    "id": "07ff6a58-823c-46ae-b0f5-0c66284cf030",
+    "id": "56fc4cb6-88be-4a1b-9ac8-ea09aec40f28",
     "category": "Punsch",
     "title": "När kaffet är serverat",
     "melody": "Melodi: Mössens julafton",
@@ -1477,7 +1762,7 @@
     "tags": []
   },
   {
-    "id": "6dd75baa-abf6-46d5-bf48-08d18aa64bf1",
+    "id": "c5cd21f8-d43a-4d59-9def-0571364e1bb5",
     "category": "Punsch",
     "title": "Ärter och punsch",
     "melody": "Melodi: Fritiof och Carmencita",
@@ -1487,7 +1772,7 @@
     "tags": []
   },
   {
-    "id": "ea135384-cc8a-460e-bfd6-d15aa7fbfe91",
+    "id": "bf3557ac-f1d4-43e3-a88b-838f5da6a220",
     "category": "Punsch",
     "title": "Det finns på fester tider",
     "melody": "Melodi: Min soldat",
@@ -1497,7 +1782,7 @@
     "tags": []
   },
   {
-    "id": "ca9cf019-0b11-477c-8020-3333055492cf",
+    "id": "694ce966-e538-4f06-b9ef-932868a82ff1",
     "category": "Punsch",
     "title": "Johansson är ful",
     "melody": "Melodi: Kostervals",
@@ -1507,7 +1792,7 @@
     "tags": []
   },
   {
-    "id": "cdc60634-82ae-48c0-ad29-100e93e8ae66",
+    "id": "d931c3d0-d2fe-4347-9b64-261b5a4161b2",
     "category": "Punsch",
     "title": "Låtom oss hylla punschen",
     "melody": "Melodi: Trink, trink, brüderlein trink",
@@ -1517,7 +1802,7 @@
     "tags": []
   },
   {
-    "id": "2424374f-7d8d-4c36-b525-9f525b5bc198",
+    "id": "d58b4ea3-5dcf-4ddb-b9be-0bb45997295e",
     "category": "Punsch",
     "title": "Sista punschvisan",
     "melody": "Melodi: Auld lang syne",
@@ -1527,7 +1812,7 @@
     "tags": []
   },
   {
-    "id": "6416e6ae-0c74-45a1-b2eb-a1d037e3c26c",
+    "id": "9c15a36e-1497-4146-b729-41448fe7d3cc",
     "category": "Sittning",
     "title": "Portos visa",
     "melody": "Melodi: You can't get a man with a gun",
@@ -1537,7 +1822,7 @@
     "tags": []
   },
   {
-    "id": "2b9b2edf-501d-41ba-813e-20f9ff4d3c88",
+    "id": "01ab5e00-5907-4c5f-ad55-b1c3266025a0",
     "category": "Sittning",
     "title": "Moder Kista",
     "melody": "Melodi: Längtan till landet (Otto Lindblad)",
@@ -1547,7 +1832,7 @@
     "tags": []
   },
   {
-    "id": "973da73e-4407-451d-b5bf-257e2d10c694",
+    "id": "739840d3-65ae-4f90-ae3e-d4c47b95a637",
     "category": "Sittning",
     "title": "Gums visa till nubben",
     "melody": "",
@@ -1557,7 +1842,7 @@
     "tags": []
   },
   {
-    "id": "9ba21602-ea0c-453f-a03e-2c03582c41e0",
+    "id": "bd49b576-8d07-4654-9ee0-0e617b52fff6",
     "category": "Sittning",
     "title": "Jag har aldrig var't på snusen",
     "melody": "Melodi: Åh, hur saligt att få vandra",
@@ -1569,7 +1854,7 @@
     ]
   },
   {
-    "id": "15506a52-ef85-42f3-adcf-4b1cc4c74b62",
+    "id": "940a250a-dc44-4745-9d5c-f948d768bc95",
     "category": "Sittning",
     "title": "Handelsvisan",
     "melody": "Melodi: Åh, hur saligt att få vandra",
@@ -1581,7 +1866,7 @@
     ]
   },
   {
-    "id": "590212ae-4f8b-405b-b26b-a5cc5eba37bd",
+    "id": "d2baeb9a-e9d0-400f-9eaf-f19a4a061b32",
     "category": "Sittning",
     "title": "Fysikvisan",
     "melody": "Melodi: Åh, hur saligt att få vandra",
@@ -1593,7 +1878,7 @@
     ]
   },
   {
-    "id": "2dcae2c3-0e8b-41a4-b574-571bb3554e82",
+    "id": "d4b7df14-e609-497e-9425-02b5bdb2af81",
     "category": "Sittning",
     "title": "Jag vill aldrig gå i Kista",
     "melody": "Melodi: Åh, hur saligt att få vandra",
@@ -1605,7 +1890,7 @@
     ]
   },
   {
-    "id": "d352e188-a2aa-4ccf-b4a7-d1c898a68650",
+    "id": "5745ac25-652b-4dd0-9028-50895fe2bd66",
     "category": "Sittning",
     "title": "Härjarevisan",
     "melody": "Melodi: Gärdebylåten",
@@ -1615,7 +1900,7 @@
     "tags": []
   },
   {
-    "id": "60db0d7c-7c11-4dc0-81e9-54356cdc32cf",
+    "id": "e53815b0-9fc5-4e04-a66d-30faa80488f3",
     "category": "Sittning",
     "title": "Spritbolaget",
     "melody": "Melodi: Snickerboa",
@@ -1628,7 +1913,7 @@
     ]
   },
   {
-    "id": "29fd112e-686a-48b0-82e4-07b2590aaad1",
+    "id": "148c8203-7707-4863-b5e9-da869d3ecc24",
     "category": "Sittning",
     "title": "Bamsesången",
     "melody": "Melodi: Signaturmelodin till Bamse",
@@ -1638,7 +1923,7 @@
     "tags": []
   },
   {
-    "id": "d02a6e8f-86f0-40c2-af4b-8bf4005e492d",
+    "id": "c9482dcd-35ac-4ed7-a6e4-965d0d61826e",
     "category": "Sittning",
     "title": "Uti min mage",
     "melody": "Melodi:  Uti vår hage",
@@ -1648,7 +1933,7 @@
     "tags": []
   },
   {
-    "id": "88e136bb-4121-4deb-ad5f-171dada6c1ca",
+    "id": "567aa1ab-e26c-4a42-a299-83d541cb367b",
     "category": "Sittning",
     "title": "Det var länge sen",
     "melody": "Melodi: Det var länge sen jag plocka' några blommor",
@@ -1658,7 +1943,7 @@
     "tags": []
   },
   {
-    "id": "1e7793ec-665e-4acc-97bb-35cbc7ad1760",
+    "id": "57052565-5d68-4160-99c7-760afcc9270b",
     "category": "Sittning",
     "title": "Jag var full en gång",
     "melody": "Melodi: Flottarkärlek",
@@ -1668,7 +1953,7 @@
     "tags": []
   },
   {
-    "id": "e559b648-db06-45a3-bf65-71c58713c1bd",
+    "id": "7960a065-869a-4c5f-8bb2-0f29bef4f9ef",
     "category": "Sittning",
     "title": "Var rädd om din fyrfota vän",
     "melody": "",
@@ -1678,7 +1963,7 @@
     "tags": []
   },
   {
-    "id": "79cb9a04-1c76-4541-80b7-20340cfb7c98",
+    "id": "fd4c199a-fb6d-4f4a-acb4-37364c969278",
     "category": "Sittning",
     "title": "Dance macabre",
     "melody": "",
@@ -1688,7 +1973,7 @@
     "tags": []
   },
   {
-    "id": "8b1cc5d3-a795-416b-87fe-4da953c2fa79",
+    "id": "a424ff50-208e-41ca-a846-b034445fd117",
     "category": "Sittning",
     "title": "Född i Norge",
     "melody": "Melodi: Oh my darling Clementine",
@@ -1698,7 +1983,7 @@
     "tags": []
   },
   {
-    "id": "787f0aac-2d1e-4be4-81e1-02c8145fa6e5",
+    "id": "87c637ee-1a0f-46c5-9bc5-4b08e0f0e6eb",
     "category": "Sittning",
     "title": "Kalmarevisan",
     "melody": "",
@@ -1708,7 +1993,7 @@
     "tags": []
   },
   {
-    "id": "f72fdeec-38a5-4aed-abf1-1f52a63db68c",
+    "id": "7f71592a-1960-45a1-9007-9781563b5080",
     "category": "Sittning",
     "title": "Balladen om den onyktre",
     "melody": "Melodi: När månen vandrar på fästet blå",
@@ -1718,7 +2003,7 @@
     "tags": []
   },
   {
-    "id": "bc338f30-f477-495b-b418-f450fb6ae45d",
+    "id": "b9841931-b103-4e0b-8762-c85dc99131dc",
     "category": "Sittning",
     "title": "Eno",
     "melody": "Melodi: Staffan stalledräng",
@@ -1728,7 +2013,7 @@
     "tags": []
   },
   {
-    "id": "8b3c7959-1143-4adb-80c8-52088b1e18a9",
+    "id": "48844d7c-4feb-4689-ac07-5c7220f92f54",
     "category": "Sittning",
     "title": "Moralvisa",
     "melody": "Melodi: Vem kan segla",
@@ -1738,7 +2023,7 @@
     "tags": []
   },
   {
-    "id": "113fa638-f689-4ac4-acfd-0e65025c60ef",
+    "id": "5eda65f1-a5ee-47af-a0d1-ac412f1150e7",
     "category": "Sittning",
     "title": "Raj, raj",
     "melody": "Melodi: Elvira Madigan",
@@ -1748,7 +2033,7 @@
     "tags": []
   },
   {
-    "id": "1d86c046-1667-4a72-a0d7-29b46ef2d794",
+    "id": "685da264-bcaf-44f4-99cd-7857529205df",
     "category": "Sittning",
     "title": "Solen",
     "melody": "Melodi: Camptown Races",
@@ -1758,7 +2043,7 @@
     "tags": []
   },
   {
-    "id": "c45e055e-082a-4ed0-870b-4a9c25e588bf",
+    "id": "fc52a458-74bf-4a72-a01c-86a3f29da065",
     "category": "Sittning",
     "title": "Lyft ditt välförsedda glas",
     "melody": "Melodi: Ding Dong Merrily on High",
@@ -1768,7 +2053,7 @@
     "tags": []
   },
   {
-    "id": "b862f19c-e7b0-4ad7-8415-156cb793971f",
+    "id": "74785732-59d6-43a4-b1ad-75e4aaf419a4",
     "category": "Sittning",
     "title": "Störthärligt full",
     "melody": "Melodi: Fat Mammy Brown",
@@ -1778,7 +2063,7 @@
     "tags": []
   },
   {
-    "id": "c2ff245d-c75d-4d1e-9ffa-4244d467e2ee",
+    "id": "91bb2cbf-67d2-45c2-b16f-45b41bf33daf",
     "category": "Sittning",
     "title": "I ett hus vid skogens slut",
     "melody": "",
@@ -1788,7 +2073,7 @@
     "tags": []
   },
   {
-    "id": "9fa27962-2666-41f7-bc6e-4031ac13ecc2",
+    "id": "ae8f7a6b-bf5f-40e5-a9a7-f416d5ac0cb7",
     "category": "Sittning",
     "title": "A long time ago",
     "melody": "Melodi: Schuberts Marche Militaire",
@@ -1798,7 +2083,7 @@
     "tags": []
   },
   {
-    "id": "7da35bbc-6fb7-4868-8f8b-18a5527315f0",
+    "id": "08355adc-3035-45df-88e8-414a3783a071",
     "category": "Sittning",
     "title": "Nu blotas det",
     "melody": "Melodi: Nu grönskar det",
@@ -1808,7 +2093,7 @@
     "tags": []
   },
   {
-    "id": "a00d638a-4ae0-4e6c-ab98-da6a341224d5",
+    "id": "93bf1773-3370-4a6b-868d-4296f32ef235",
     "category": "Sittning",
     "title": "Lille Olle",
     "melody": "Melodi: Katjuscha",
@@ -1818,7 +2103,7 @@
     "tags": []
   },
   {
-    "id": "0eaa1bd3-0a5a-42e2-a4dd-643635753b5c",
+    "id": "096dd8b5-ed07-4057-a8e0-128756cc1c49",
     "category": "Sittning",
     "title": "En liten blå förgätmigej",
     "melody": "",
@@ -1828,7 +2113,7 @@
     "tags": []
   },
   {
-    "id": "e4c53ca0-45e4-4f30-885b-2b8a63746628",
+    "id": "6e210159-b1f7-4746-9295-62c896da01b9",
     "category": "Sittning",
     "title": "Det var i vår ungdoms fagraste vår",
     "melody": "",
@@ -1838,7 +2123,7 @@
     "tags": []
   },
   {
-    "id": "1d9902e7-20c5-44d5-8862-ddd492427bc4",
+    "id": "ce93f025-ef81-4ccd-878b-714937834f2d",
     "category": "Sittning",
     "title": "Hej på er vänner alla",
     "melody": "",
@@ -1848,7 +2133,7 @@
     "tags": []
   },
   {
-    "id": "b2c0e820-ad9f-4ff2-a79e-60f2b55a9a3e",
+    "id": "011ef22f-fda2-4da2-b3fa-232ed593a8a3",
     "category": "Sittning",
     "title": "Gasqueljäsen",
     "melody": "Melodi: La Marseillaise",
@@ -1860,7 +2145,7 @@
     ]
   },
   {
-    "id": "ad7ce124-5ace-4618-b970-0355f96b35da",
+    "id": "66ba74e0-8ef3-4000-84fe-aafb9923b8cf",
     "category": "Sittning",
     "title": "Mattevisan",
     "melody": "Melodi: Jag är en liten undulat",
@@ -1870,7 +2155,7 @@
     "tags": []
   },
   {
-    "id": "c8a44b59-a8d0-4269-b327-92c86db5248b",
+    "id": "7fd1fe7a-3a7c-4ac7-ae48-9e39b36d94d3",
     "category": "Sittning",
     "title": "37:an",
     "melody": "Melodi: 34:an",
@@ -1880,7 +2165,27 @@
     "tags": []
   },
   {
-    "id": "b9fc2145-ccc8-4feb-8c31-753ff19dda1a",
+    "id": "b2f9c74f-cbd7-40f1-b7b9-115594d926eb",
+    "category": "Sittning",
+    "title": "Frankrike dricks det",
+    "melody": "Melodi: Te Deum laudeamus",
+    "author": "",
+    "info": "",
+    "lyrics": "I frankrike dricks det  viner.\nMär tyskarna dricker ölunderbart det mår.\nMen svensken som dricker, svin är\noss svin emellan:\nTag en tår!",
+    "tags": []
+  },
+  {
+    "id": "6873345b-c43e-4236-8ace-2062f2a0ce89",
+    "category": "Sittning",
+    "title": "etanol",
+    "melody": "Blinka lilla stjärna",
+    "author": "",
+    "info": "",
+    "lyrics": "Köra runt i bil går bra\nfull och galen, go och glad\nTanken full med etanol\ntill polisen säga skål,\nluktar det av sprit, jaha\ndet är bilen, inte jag",
+    "tags": []
+  },
+  {
+    "id": "3ad9d548-617d-4142-97a5-d7df77077470",
     "category": "SUSKM",
     "title": "Finland",
     "melody": "Melodi: Högt över Havet",
@@ -1890,7 +2195,7 @@
     "tags": []
   },
   {
-    "id": "8c6f5ef7-95d7-4638-8304-3143fb986700",
+    "id": "0cf0c72e-8e08-4e0a-a07a-981e5dbb306b",
     "category": "SUSKM",
     "title": "SUS KMs serenad",
     "melody": "Melodi: var nöjd med allt som livet ger",
@@ -1900,7 +2205,7 @@
     "tags": []
   },
   {
-    "id": "ddcd76e3-f6dd-4cfd-8ec5-644aabdeea64",
+    "id": "de86aa15-8803-4616-a416-767b1b8d79f7",
     "category": "SUSKM",
     "title": "Den heliga Ovvelåten",
     "melody": "",
@@ -1910,7 +2215,7 @@
     "tags": []
   },
   {
-    "id": "e1de9c45-6cf8-4ee2-a3e4-cd800c47c4a6",
+    "id": "00bed3e1-f0e5-4cd7-8ab5-bc1bb126e601",
     "category": "SUSKM",
     "title": "SUS KM visan",
     "melody": "",
@@ -1923,7 +2228,7 @@
     ]
   },
   {
-    "id": "08b46f5f-a915-4454-8c6f-87dbeb260e42",
+    "id": "5acb2c3d-ed07-426f-9ab0-4ff887a52073",
     "category": "Vin",
     "title": "Feta fransyskor",
     "melody": "Melodi: Schuberts Marche Militaire",
@@ -1935,7 +2240,7 @@
     ]
   },
   {
-    "id": "b3d9826e-561f-4021-9236-298044e6a3f2",
+    "id": "432183f6-dc66-4831-86b8-c58d2968b8a5",
     "category": "Vin",
     "title": "Gums visa till vinet",
     "melody": "",
@@ -1945,7 +2250,7 @@
     "tags": []
   },
   {
-    "id": "3809f5f5-722f-4cde-86c3-9aa8711d6e52",
+    "id": "b38151b8-3abe-4ff9-9626-8fc685dd7a33",
     "category": "Vin",
     "title": "Sudda, sudda",
     "melody": "Melodi: Sudda Sudda bort din sura min",
@@ -1955,7 +2260,7 @@
     "tags": []
   },
   {
-    "id": "1d75c909-ad87-40d1-920f-d2d3117f9371",
+    "id": "54e94fdd-a55f-434c-b82c-05b4b9da7fd4",
     "category": "Vin",
     "title": "Bordeaux, bordeaux",
     "melody": "Melodi: I sommarens soliga dagar",
@@ -1965,7 +2270,7 @@
     "tags": []
   },
   {
-    "id": "c7707ae4-e35f-4cb2-86c0-bf14c1bdfebc",
+    "id": "a7c5d3cb-e7a4-4841-9e94-ca77d922f701",
     "category": "Vin",
     "title": "Pussvisa",
     "melody": "Melodi: Längtan till landet",
@@ -1975,7 +2280,7 @@
     "tags": []
   },
   {
-    "id": "6bb6685b-07af-4654-b38e-8ec779dcda7b",
+    "id": "a39fb99c-03d6-4fdc-b02d-dcbd8d47e92a",
     "category": "Vin",
     "title": "Så länge rösten är mild",
     "melody": "Melodi: Så länge skutan kan gå",
@@ -1985,7 +2290,17 @@
     "tags": []
   },
   {
-    "id": "3fa7ebd4-181e-4c58-8dee-a3a564695335",
+    "id": "2908f715-8335-4914-9965-c470fa154261",
+    "category": "Vin",
+    "title": "Imsig vimsig",
+    "melody": "Melodi: Imse vimse spindel",
+    "author": "",
+    "info": "",
+    "lyrics": "Imsig, vimsig blir man utav lite vin\nklättrar upp på stolen, verkar pigelin.\nRamlar under bordet, sussar en minut.\nVaknar av att vinet i glaset tagit slut.",
+    "tags": []
+  },
+  {
+    "id": "dceb2331-ad1a-49a7-8160-564fd9d81de5",
     "category": "Öl",
     "title": "Min pilsner",
     "melody": "Melodi: My Bonnie",
@@ -1995,7 +2310,7 @@
     "tags": []
   },
   {
-    "id": "7d4ebcc5-e0db-4359-9c51-19f46f9854a2",
+    "id": "89fcee85-e7d0-4646-b74b-d7bd073d7543",
     "category": "Öl",
     "title": "En pilsnerdrickare",
     "melody": "Melodi: En sockerbagare här bor i staden",
@@ -2005,7 +2320,7 @@
     "tags": []
   },
   {
-    "id": "8ce153f8-011d-4bb4-a998-586d63d75e5f",
+    "id": "6627b6a7-595b-4fdd-b9f4-430157afbf07",
     "category": "Öl",
     "title": "Vi älskar öl",
     "melody": "Melodi: Ser du stjärnan i det blå?",
@@ -2015,7 +2330,7 @@
     "tags": []
   },
   {
-    "id": "21d6a718-9bde-4f6b-af4f-2efb99818030",
+    "id": "d93fcc83-1098-4b0c-a409-700970e7a63a",
     "category": "Öl",
     "title": "Ju mera öl vi dricker",
     "melody": "Melodi: Ju mer vi är tillsammans",
@@ -2025,7 +2340,7 @@
     "tags": []
   },
   {
-    "id": "dbecf7b6-2841-4d74-af9c-c52926ff0dd8",
+    "id": "38234941-d3a7-4c5f-9320-bcb1029415da",
     "category": "Öl",
     "title": "Strejk på Pripps",
     "melody": "Melodi: I natt jag drömde",
@@ -2035,13 +2350,23 @@
     "tags": []
   },
   {
-    "id": "df9777e9-726c-4138-8a59-46f8d21c250d",
+    "id": "a1856c76-0c4a-45be-becb-ed88cc8c8123",
     "category": "Öl",
     "title": "Öl öl öl i glas",
     "melody": "Melodi: Row your boat",
     "author": "",
     "info": "",
     "lyrics": "Öl öl öl i glas eller i butelj. \nSkummande, skummande, skummande, skummande. \nTa en klunk och svälj.",
+    "tags": []
+  },
+  {
+    "id": "ebdef081-d506-4f4e-8b5c-9158fc2d1616",
+    "category": "Öl",
+    "title": "180 HP",
+    "melody": "Melodi: 800 grader",
+    "author": "",
+    "info": "",
+    "lyrics": "Studenter med stirrande blick\nDe grät fast de inte fick Läslistan ger kalla kärar\nInte lätt när vi alla drar\nVi läser var dag, sả mănga ord\nStudentens liv\nVi är en obildbar hord\nJa, vi pluggar var dag, man blir sả less\nStudentens liv\nMen snart blir det mäss\nSkit i 180 HP\nDu kan lita pả öl, du kan lita pả öl\n180 HP\nDu kan lita pả öl, du kan lita pả öl",
     "tags": []
   }
 ]
