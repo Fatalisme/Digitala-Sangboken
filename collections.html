@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="sv">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="author" content="Elliot Dobetzky" />
+    <title>Skapa sånghäfte - Digitala Sångboken</title>
+    <link rel="stylesheet" href="styles/main.css" />
+  </head>
+  <body>
+    <header>
+      <h1><a href="index.html">Digitala Sångboken</a></h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Hem</a></li>
+          <li><a href="about.html">Om hemsidan</a></li>
+          <li><a href="collections.html" class="active">Skapa sånghäfte</a></li>
+        </ul>
+      </nav>
+    </header>
+    <p>Hej! Detta är <span lang="en">work in progress</span>.Tanken är att man ska kunna skapa egna sånghäften, som man ska kunna dela eller exportera.</p>
+
+    <main class="collection-container">
+      <section class="selector">
+        <h2>Välj sånger</h2>
+        <input id="selector-search" placeholder="Sök titel, författare eller text..." />
+        <div id="song-results" class="song-results">Laddar sånger…</div>
+      </section>
+
+      <section class="playlist">
+        <h2>Förhandsvisning - Sånghäfte</h2>
+        <div class="playlist-controls">
+          <button id="clear-playlist">Rensa</button>
+          <button id="export-print">Exportera / Skriv ut</button>
+          <!--<button id="save-playlist">Spara lokalt</button>-->
+          <button id="share-playlist">Dela länk</button>
+        </div>
+        <div id="share-area" style="margin-bottom:8px; display:none;">
+          <input id="share-url" type="text" readonly style="width:100%;" />
+          <button id="copy-share-url">Kopiera länk</button>
+        </div>
+        <ul id="playlist" class="playlist-list" aria-live="polite"></ul>
+      </section>
+    </main>
+
+    <script src="scripts/collections.js"></script>
+  </body>
+</html>
